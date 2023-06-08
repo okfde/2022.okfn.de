@@ -1,0 +1,44 @@
+---
+layout: page
+chapter: 3.3
+title: Finanzen
+permalink: /organisation/finanzen/
+visual:
+    img: /assets/images/einleitung/budget2021.png
+    alt: Einnahmen und Ausgaben 2021
+
+---
+
+### Wirtschaftliche Lage des Vereins
+
+Die OKF DE verzeichnet seit ihrer Gründung 2011 eine positive wirtschaftliche Entwicklung und hat in den letzten Jahren eine verlässliche Finanzkonsolidierung erreicht, die seit 2019 durch jährliche Wirtschaftsprüfungen bestätigt wird. Die OKF DE hat keine Darlehens- oder Kreditverpflichtungen. Sie besitzt weder Immobilien noch Gesellschaftsanteile in irgendeiner Form. Das Vereinsvermögen ist fast vollständig liquide verfügbar. Bei den Einnahmen machen die Zuwendungen weiterhin den mit Abstand größten Anteil aus. Daneben verzeichnen die Spenden, insbesondere durch Privatpersonen, seit 2019 einen großen Wachstumsschub und bilden mittlerweile eine eigene wichtige Einnahmesäule. Die Höhe der Einnahmen durch Aufträge schwankt sehr stark von Jahr zu Jahr. Die OKF DE bemüht sich nicht aktiv um öffentliche Ausschreibungen oder sonstige Auftragsvergaben; Kooperationen ergeben sich hier eher auf Nachfrage im Rahmen von bestehenden Kontakten und kurzfristigen Gelegenheiten. Die Coronapandemie wirkt sich bislang nicht messbar negativ auf die Einnahmen der OKF DE aus. Es muss aber angemerkt werden, dass sich die Akquise neuer Fördermittel weiterhin schwierig gestaltet, da Förder:innen grundsätzlich zurückhaltender mit neuen Projektzusagen geworden sind. Die Ausgaben, die im Vorjahr pandemiebedingt stark zurückgegangen waren, sind in diesem Jahr wieder deutlich gestiegen, liegen allerdings noch unterhalb des Vor-Corona-Niveaus.
+
+### Bilanz
+
+Die OKF DE erzielt 2021 Gesamterträge in Höhe von 2.504.000 Euro. Damit konnte das hohe Niveau des Vorjahres (2.532.000 €) gehalten werden. Der Gesamtaufwand beträgt 2.164.000 Euro (VJ 2.028.000 €). Als Vereinsergebnis ergibt sich ein operativer Überschuss vor Rücklagenveränderung in Höhe von 340.000 Euro (VJ 504.000 €).
+
+Die Bilanzsumme beträgt insgesamt 1.542.000 Euro (VJ 1.430.000 €). Die Aktivseite besteht aus Sach- und Finanzanlagen in Höhe von 20.000 Euro (VJ 7.500 €), Forderungen in Höhe von 125.000 Euro (VJ 109.000 €) und liquiden Mitteln in Höhe von 1.397.000 Euro (VJ 1.313.000 €). Bei den Sach- und Finanzanlagen handelt es sich um bürobezogene Technik gemäß des Anlagevermögens (Neuanschaffungen und Abschreibungen) sowie um die Mietkaution, die 2021 aufgrund eines Vermieterwechsels gezahlt werden musste. Die Forderungen umfassen hauptsächlich ausstehende Zahlungseingänge für bewilligte Projekte, die bis zum Buchungsschluss noch nicht eingegangen waren. Die liquiden Mittel umfassen die Bestände unserer Vereinskonten (sowie in geringem Umfang zwei Konten bei den Zahlungsdienstleistern Paypal und Stripe). Die OKF DE unterhält 20 Konten bei der GLS Bank, um Einnahmen und Ausgaben projektbezogen gut nachvollziehbar steuern zu können. Bei einzelnen Projekten ist die Einrichtung eines eigenen Kontos zudem verpflichtende Vorgabe des Zuwendungsgebenden. 
+
+Erfreulicherweise reduziert sich die Bilanzsumme auf der Passivseite in diesem Jahr nur um 196.000 Euro (VJ 424.000 €) durch Rückstellungen, Verbindlichkeiten und Abgrenzungen. Bei den Rückstellungen in Höhe von 38.000 Euro (VJ 95.000 €) schlagen Urlaubsrückstellungen und erwartete Kosten für verlorene Klagen zu Buche, allerdings deutlich geringer als 2020. Verbindlichkeiten in Höhe von 107.000 Euro (VJ 186.000 €) umfassen Rechnungen, die erst 2022 eingegangen sind, sich aber noch auf das Jahr 2021 beziehen sowie Lohnsteuer und Umsatzsteuervoranmeldung für 2021. Abgegrenzt werden müssen zweckgebundene Zuschüsse für Projekte in Höhe von 51.000 Euro (VJ 142.000 €), die bereits 2021 gezahlt wurden, deren inhaltliche Leistung sich aber schon (teilweise) auf 2022 bezieht. 
+
+Das Vereinsvermögen der OKF DE aus Eigenkapital beträgt somit 1.346.000 Euro (VJ 1.006.000 €). Es ist größtenteils ungebunden (siehe Bankbestand) und kann fast vollständig liquidiert werden. Mit den liquiden Mitteln wäre es möglich, alle laufenden Zahlungsverpflichtungen für etwa acht Monate abzudecken. Aufgrund der bestehenden Niedrigzinsphase liegen die Bankbestände der OKF DE auf Girokonten; es gibt derzeit keine Anlagestrategie für freie Mittel.
+
+Der bilanzielle Jahresabschluss wurde mit Unterstützung der Steuerkanzlei Winkow angefertigt. Die Prüfung des Jahresabschlusses erfolgte im Mai/Juni 2022 durch die Wirtschaftsprüfungsgesellschaft Solidaris Revisions-GmbH. Es gab keine Beanstandungen. Eine Finanzübersicht im Jahresvergleich findet sich in folgendem PDF zum Download:
+➠[Finanzen Jahresbericht 2021](https://2021.okfn.de/assets/documents/Finanzen_Jahresbericht_2021.pdf)
+
+### Einnahmen und Ausgaben
+
+Die Einnahmen in Höhe von 2.504.000 untergliedern sich in projektgebundene Zuschüsse, Spenden und wirtschaftliche Einnahmen. Es werden keine Mitgliedsbeiträge erhoben. Die OKF DE erreicht mit projektgebundenen Zuschüssen in Höhe von 1.876.000 Euro wieder ein sehr hohes Niveau (VJ 1.637.000 €). Diese Einkommensart wächst in diesem Jahr und macht 75 Prozent aller Einnahmen aus. Dies verdeutlicht, wie wichtig die Projektarbeit für die Organisation ist. Größte Zuwendungsgeberin ist erneut das Bundesministerium für Bildung und Forschung – 2021 mit zwei Förderungen: einmal für den Prototype Fund mit 462.000 Euro und für das neue Projekt MoFab mit 45.000 Euro. Weitere signifikante Geldgeber:innen sind die Luminate Foundation für unsere Policy-Arbeit mit 265.000 Euro, gefolgt von der Deutsche Bahn Stiftung mit 245.000 Euro für Jugend hackt. Der Anteil öffentlicher Mittel an allen Einnahmen der OKF DE hat 2021 zugenommen und beträgt ungefähr 40 Prozent. 
+
+Die Spendeneinnahmen belaufen sich auf 467.000 Euro und sind etwas rückläufig im Vergleich zum Vorjahr (538.000 €). Der Großteil der Spenden geht auf das Programm FragdenStaat zurück, das sich besonders um die Neuspender:innengewinnung und damit verbunden um ein kontinuierliches Wachstum der Spender:innenbasis bemüht hat (u. a. mit einem weiteren Musikvideo auf Youtube). Hier konnten die Einnahmen merklich gesteigert werden. Der Rückgang erklärt sich durch die FriendlyFire-Spendenkampagne, die 2019/2020 zu einmalig hohen Spendeneinnahmen der OKF DE führte. 
+
+Die wirtschaftlichen Einnahmen betragen 161.000 Euro (VJ 357.000 €). Die wirtschaftlichen Aktivitäten sind kein Schwerpunkt der OKF DE, daher liegt kein Fokus auf der Akquise von Aufträgen und sonstigen Dienstleistungen. Dennoch ergeben sich immer wieder ieinzelne inhaltlich spannende Kooperationen. 2021 wurden bereits laufende Vorhaben bei Code for Germany mit dem nexus-Institut („Digitale Kommune“) und bei Jugend hackt mit der Fachstelle für Internationalen Jugendarbeit (Jugendverstärker) fortgesetzt.
+
+Die Höhe der Ausgaben beträgt 2.164.000 Euro (VJ 2.028.000 €). Die Ausgaben untergliedern sich in Personalkosten in Höhe von 1.168.000 Euro (VJ 1.419.000 €), in Sachkosten in Höhe von 994.000 Euro (VJ 594.000 €) sowie Steuern in Höhe von 877 Euro (Vorjahr 14.000 €). Die geringe Steuerlast hat zwei Gründe: Zum Einen sind alle Übergangsregelungen der Bilanzierungsumstellung aus 2018 abgeschlossen und zum Anderen wurden deutlich weniger wirtschaftliche Aufträge im Jahr 2021 durchgeführt. 
+
+### Finanzieller Ausblick
+
+Die OKF DE verzeichnet in den letzten Jahren eine sehr positive wirtschaftliche Entwicklung. Es wird erwartet, dass an die bisherige, sehr erfolgreiche Projektarbeit angeknüpft werden kann. Die internen Strukturen der Organisation werden dazu weiter professionalisiert und konsolidiert. Des Weiteren gehen wir von einer immer stärkeren Relevanz digital- und technologiebezogener Themen in der Öffentlichkeit aus, von der Organisationen mit einschlägiger Expertise profitieren können. Daher leiten wir grundsätzlich einen positiven Entwicklungstrend für die OKF DE ab. Die Einnahmen der OKF DE setzen sich allerdings in jedem Jahr neu zusammen; mehrjährige Förderzusagen gibt es nur in sehr begrenztem Ausmaß. Überwiegend gilt es, alljährlich neue Mittel einzuwerben. Diese Struktur bringt daher eine hohe Volatilität der Einnahmen und eine beschränkte Prognosemöglichkeit mit sich. Aufgrund der andauernden Coronapandemie rechnen wir 2022 nicht mit einem Wachstum, sondern mit einer ausgeglichenen Bilanz und einer Stabilität der Rücklagen, da öffentliche und private Fördermittel in hohem Maße zur Eindämmung der Pandemie eingesetzt werden. Es wird zudem damit gerechnet, dass Hilfsmaßnahmen für die Ukraine bzw. Maßnahmen im Rahmen der Konsequenzen des im Frühjahr 2022 ausgebrochenen Krieges in der Ukraine in großem Ausmaß Mittel binden werden, so dass es schwieriger werden wird, neue Fördergelder für die Themen der OKF DE einzuwerben. Daher  setzen wir uns zum Ziel, ein möglichst diverses Portfolio an Einnahmequellen aufzubauen.
+
+
+
