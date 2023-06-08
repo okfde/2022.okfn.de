@@ -149,4 +149,5 @@ Durch die pandemiebedingte Überlastung vieler Menschen war im Jahr 2021 einen R
 
 Das Netzwerk möchte sich neben praktischen Anwendungen zukünftig auch auf politische Arbeit fokussieren, um bereits erprobte Tools für die öffentliche digitale Infrastruktur an die öffentliche Hand übergeben zu können und sie in die Verstetigung zu führen.  Für das Jahr 2022 haben wir eine weitere hauptamtliche Stelle für Code for Germany geschaffen. Die neue Junior Community Redakteur:in wird die Aufgabe haben, Use Cases und Best Practices aus dem Netzwerk zu dokumentieren, um das Wissen unserer Expert:innen sichtbarer und damit wirksamer zu machen. 
 
-# Wirkungskette
+<br><br><br><br><br>
+
