@@ -116,19 +116,19 @@ Ebenfalls neu ist die Kampagne „Lobbyregister selbst gemacht“. Der Gesetzent
 
 # Output
 
-    * Anfragen gesamt: 28.103 (VJ: 33.384)
+* Anfragen gesamt: 28.103 (VJ: 33.384)
 
-    * Aktive Nutzende gesamt: 104.510 (VJ: 101.824)
+* Aktive Nutzende gesamt: 104.510 (VJ: 101.824)
 
-    * Seitenansichten: 6,2 Millionen
+* Seitenansichten: 6,2 Millionen
 
-    * gewonnene Klagen: 17 (VJ:  9)
+* gewonnene Klagen: 17 (VJ:  9)
     
-    * erste Kampagne auf EU-Ebene, Klima-Helpdesk zur Unterstützung von Umwelt-Initiativen, 4 Sendungen gemeinsam mit dem ZDF Magazin Royale sowie weitere neue Medienkooperationen, 138 Artikel im Blog veröffentlicht
+* erste Kampagne auf EU-Ebene, Klima-Helpdesk zur Unterstützung von Umwelt-Initiativen, 4 Sendungen gemeinsam mit dem ZDF Magazin Royale sowie weitere neue Medienkooperationen, 138 Artikel im Blog veröffentlicht
     
-    * neues Dokumentensystem für mittlerweile über 140.000 PDFs in unserem Archiv, Redesign der Anfrage-Seite
+* neues Dokumentensystem für mittlerweile über 140.000 PDFs in unserem Archiv, Redesign der Anfrage-Seite
     
-    * Veröffentlichung des neuen Musikvideos ➠[Das ist alles von der Informationsfreiheit gedeckt](https://www.youtube.com/watch?v=QV83MDNOrLI)
+* Veröffentlichung des neuen Musikvideos ➠[Das ist alles von der Informationsfreiheit gedeckt](https://www.youtube.com/watch?v=QV83MDNOrLI)
 
 # Outcome
 
@@ -147,6 +147,5 @@ Maßnahmen werden regelmäßig intern evaluiert. Auf dem Blog und via Newsletter
 
 Auch 2022 kämpfen wir weiter für Informationsfreiheit. Nach unserem starken Teamwachstum heißt es jetzt erstmal zu konsolidieren. Der Klima-Helpdesk wird fortgeführt und neue Kampagnen kommen hinzu. Erste Legal-Tech-Anwendungen sind für unsere Nutzer:innen bald verfügbar und die Urteilsdatenbank ist bereits einsehbar. Ebenso wird das Redesign Seite für Seite vorangebracht. Recherchen sind schwer planbar, aber Frontex wird weiterhin fest in unserem Fokus stehen. Besonders freuen wir uns auf die mehrfach verschobene FragDenStaat-Summer-School: 2022 können wir endlich Multiplikator:innen zusammenbringen und schulen. Berichterstattung, Anfragen und Klagen sollen auf hohem Niveau weitergeführt werden.
 
-
-
+<br><br><br>
 
