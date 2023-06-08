@@ -76,8 +76,8 @@ Code for Germany ist ein Netzwerk von ehrenamtlichen Menschen, die an nachhaltig
 
 ### Budget
 
-  **2021** </br>
-  Einnahmen: 37.627 € </br>
+  **2021** <br>
+  Einnahmen: 37.627 € <br>
   Ausgaben: 50.623 €
   davon Personalausgaben: 39.952 €
   davon Sachausgaben: 10.671 €
