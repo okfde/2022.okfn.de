@@ -3,7 +3,7 @@ layout: page
 chapter: 2.21
 title: Jugendverstärker
 website: https://jugendverstaerker.digital
-permalink: /open-government/jugendverstaerker/
+permalink: /projekte/jugendverstaerker/
 visual:
     img: /assets/images/opengovernment/jugendverstaerker_robot.png
     alt: Jugendverstaerker Robot Illustration

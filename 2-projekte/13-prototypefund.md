@@ -3,7 +3,7 @@ layout: page
 chapter: 2.13
 title: Prototype Fund
 website: https://prototypefund.de
-permalink: /open-government/prototypefund/
+permalink: /projekte/prototypefund/
 visual:
     img: /assets/images/opengovernment/ptf-trialerror.png
     alt: Prototype Fund Trial Error Schriftzug

@@ -3,7 +3,7 @@ layout: page
 chapter: 2.11
 title: FragDenStaat
 website: https://fragdenstaat.de
-permalink: /open-government/fragdenstaat/
+permalink: /projekte/fragdenstaat/
 visual:
     img: /assets/images/opengovernment/fds-team2021.jpg
     alt: Teamfoto von Frag den Staat 2021

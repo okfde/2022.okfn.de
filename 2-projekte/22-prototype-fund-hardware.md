@@ -3,7 +3,7 @@ layout: page
 chapter: 2.22
 title: Prototype Fund Hardware
 website: https://hardware.prototypefund.de/
-permalink: /open-government/prototype-fund-hardware/
+permalink: /projekte/prototype-fund-hardware/
 visual:
       img: /assets/images/opengovernment/pfh-logo.png
       alt: Prototype Fund Hardware Logo

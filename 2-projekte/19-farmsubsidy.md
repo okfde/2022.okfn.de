@@ -3,7 +3,7 @@ layout: page
 chapter: 2.19
 title: Farm Subsidy
 website: https://farmsubsidy.org/
-permalink: /open-government/farmsubsidy/
+permalink: /projekte/farmsubsidy/
 visual:
     img: /assets/images/opengovernment/farmsubsidy.jpg
     alt: Foto zu Farm Subsidy

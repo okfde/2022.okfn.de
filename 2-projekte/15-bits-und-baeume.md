@@ -3,7 +3,7 @@ layout: page
 chapter: 2.15
 title: Bits & Bäume
 website: https://bits-und-baeume.org/de
-permalink: /open-government/bitsundbaeume/
+permalink: /projekte/bitsundbaeume/
 visual:
       img: /assets/images/civictech/bitsundbaeume.png
       alt: Logo Bits und Bäume

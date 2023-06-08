@@ -3,7 +3,7 @@ layout: page
 chapter: 2.24
 title: Rette deinen Nahverkehr
 website: https://rettedeinennahverkehr.de/
-permalink: /open-government/RDNV/
+permalink: /projekte/RDNV/
 visual:
      img: /assets/images/civictech/rettedeinennahverkehr.png
      alt: Eine Beschreibung des Textes

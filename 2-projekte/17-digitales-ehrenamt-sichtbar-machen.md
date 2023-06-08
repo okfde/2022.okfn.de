@@ -3,7 +3,7 @@ layout: page
 chapter: 2.17
 title: Digitales Ehrenamt sichtbar machen
 website: 
-permalink: /open-government/digitales-ehrenamt-sichtbar-machen/
+permalink: /projekte/digitales-ehrenamt-sichtbar-machen/
 visual:
       img: /assets/images/opengovernment/DSEE-2021.jpg
       alt: Ehrenamtliche und OKF-Geschäftsführerin Henriette Litta in Ulm

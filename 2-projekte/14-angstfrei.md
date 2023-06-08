@@ -3,7 +3,7 @@ layout: page
 chapter: 2.14
 title: Angstfrei
 website: https://www.digitalejugendarbeit.de/
-permalink: /open-government/angstfrei/
+permalink: /projekte/angstfrei/
 visual:
   img: /assets/images/opengovernment/angstfrei.png
   alt: Logo von Angstfrei Digitale Jugendarbeit

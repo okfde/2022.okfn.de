@@ -3,7 +3,7 @@ layout: page
 chapter: 2.12
 title: Jugend hackt
 website: https://jugendhackt.org/
-permalink: /open-government/jugendhackt/
+permalink: /projekte/jugendhackt/
 visual:
     img: /assets/images/opengovernment/jh-alpakaworld.png
     alt: Jugend hackt Alpaka World Screenshot

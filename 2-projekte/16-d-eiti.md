@@ -3,7 +3,7 @@ layout: page
 chapter: 2.16
 title: EITI – Extractive Industries Transparency Initiative
 website: https://www.d-eiti.de/
-permalink: /open-government/d-eiti/
+permalink: /projekte/d-eiti/
 visual:
     img: /assets/images/opengovernment/eiti.png
     alt: Screenshot der Eiti Webseite

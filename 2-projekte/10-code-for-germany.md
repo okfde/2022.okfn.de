@@ -3,7 +3,7 @@ layout: page
 chapter: 2.10
 title: Code for Germany
 website: https://codefor.de
-permalink: /open-government/code-for-germany/
+permalink: /projekte/code-for-germany/
 visual:
     img: /assets/images/opengovernment/cfgsummit21.jpg
     alt: Gruppenfoto vom Code for Germany Summit 2021

@@ -3,7 +3,7 @@ layout: page
 chapter: 2.25
 title: Sovereign Tech Fund
 website: https://sovereigntechfund.de/
-permalink: /open-government/sovereign-tech-fund/
+permalink: /projekte/sovereign-tech-fund/
 visual:
       img: /assets/images/opengovernment/stf.jpg
       alt: Screenshot aus der Machbarkeitsstudie des Sovereign Tech Fund

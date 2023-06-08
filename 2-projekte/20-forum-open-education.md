@@ -3,7 +3,7 @@ layout: page
 chapter: 2.20
 title: Forum Open Education
 website: https://education.forum-open.de/
-permalink: /open-government/forum-open-education/
+permalink: /projekte/forum-open-education/
 visual:
      img: /assets/images/opengovernment/foe21.jpeg
      alt: Foto vom Forum Open Education 2021
