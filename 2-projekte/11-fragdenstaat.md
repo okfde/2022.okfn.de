@@ -69,7 +69,7 @@ In einer Demokratie ist es notwendig, dass sich Bürger:innen frei über Regieru
 
 ### Laufzeit
 
-  Das Projekt läuft seit August 2011. <br><br>
+  Das Projekt läuft seit August 2011.
   
 ### Budget
 
