@@ -147,3 +147,4 @@ Die Jugendlichen werden in ihrer Fähigkeit gestärkt, Dinge selbst zu gestalten
 
 2022 wollen wir erneut bis zu zehn neue Labs eröffnen, um noch mehr regelmäßige Angebote schaffen zu können. Wir setzen unsere Online-Angebote fort, solange es pandemiebedingt nötig ist, und planen parallel Events und Labs wieder vor Ort. Durch die Gründung eines Jugendbeirats wollen wir unsere Zielgruppe noch direkter an inhaltlichen Fragen beteiligen. Wir planen außerdem eine Fachkonferenz zum Jahresende.
 
+<br><br><br>
