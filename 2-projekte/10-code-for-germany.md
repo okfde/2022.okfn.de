@@ -49,7 +49,7 @@ effect:
 
     Es gibt mehr Tools, Angebote und Infrastruktur für eine souveräne, digital handlungsfähige, informierte Gesellschaft.
 - title: gesellschaftliche Wirkung
-  claim: >
+  text: >
     Regierungen werden transparenter.
 
 
@@ -58,44 +58,68 @@ effect:
 
     Das Bewusstsein für Open Source, Open Data und Open Government steigt.
 
-resources: >
+---
 
-  **Laufzeit** <br>
 
-  Das Projekt läuft seit April 2014. <br><br>  
+# Das Projekt
 
-  **Budget** <br>
+Code for Germany ist ein Netzwerk von ehrenamtlichen Menschen, die an nachhaltigen digitalen Projekten für eine offene und gerechte Gesellschaft arbeiten. Zentrales Thema ist dabei, wie Daten, Informationen und Wissen so aufbereitet werden können, dass sie möglichst vielen Menschen zugänglich sind. Dadurch wird die Beteiligung von Bürger:innen an demokratischen Prozessen gestärkt und ihr Lebensalltag erleichtert. Um dies zu ermöglichen, treffen sich Freiwillige regelmäßig in ihren Städten in den Open Knowledge Labs (OK-Labs). Sie diskutieren über Strategien des Open Government und entwickeln digitale Lösungen für Probleme und Bedürfnisse, die sie in ihren Städten und Nachbarschaften identifiziert haben.
 
-  2021:<br>
-  Einnahmen: 37.627 €<br>
-  Ausgaben: 50.623 €<br>
-  davon Personalausgaben: 39.952 €<br>
-  davon Sachausgaben: 10.671 €<br><br>
 
-  2020: <br>
-  Einnahmen: 84.116 € <br>
-  Ausgaben: 65.210 € <br>
-  davon Personalausgaben: 41.101 € <br>
-  davon Sachausgaben: 24.109 € <br><br>
+# Was ist 2022 passiert?
 
-  **Personal** <br>
+## Ressourcen
 
-  Koordination: Sonja Fischbauer  <br><br>
+### Laufzeit
 
-  **ehrenamtliche Arbeit** <br>
+  Das Projekt läuft seit April 2014.
 
-  ca. 200 Ehrenamtliche mit geschätzt 5.000 Stunden ehrenamtlicher Arbeit <br><br> 
+### Budget
+
+  **2021**
+  Einnahmen: 37.627 €
+  Ausgaben: 50.623 €
+  davon Personalausgaben: 39.952 €
+  davon Sachausgaben: 10.671 €
+
+  **2020**
+  Einnahmen: 84.116 €
+  Ausgaben: 65.210 €
+  davon Personalausgaben: 41.101 €
+  davon Sachausgaben: 24.109 €
+
+### Personal
+
+  Koordination: Sonja Fischbauer
+
+### ehrenamtliche Arbeit
+
+ca. 200 Ehrenamtliche mit geschätzt 5.000 Stunden ehrenamtlicher Arbeit
   
-  **Partner:innen** <br>
+### Partner:innen
 
-  Code for All, nexus Institut <br><br>
+Code for All, nexus Institut
 
-  **Förderung** <br>
-  Körber-Stiftung, Deutsche Postcode Lotterie, Umweltbundesamt, Spenden, sonstige <br><br>
+### Förderung
 
+Körber-Stiftung, Deutsche Postcode Lotterie, Umweltbundesamt, Spenden, sonstige
 
+    
+# inhaltliche Schwerpunkte
 
-outputs: >
+Klima und Umwelt waren auch in 2021 ein Fokus für viele Projekte aus dem Netzwerk: Acht Ehrenamtliche der Gruppe Code for Bielefeld zeigten mit einem ➠[Citizen-Science-Projekt im Teutoburger Wald](https://codefor.de/blog/feuchtigkeit-teutoburger-wald/) die Auswirkungen des Klimawandels auf, indem sie die abnehmende Feuchtigkeit des lokalen Waldbodens untersucht haben. Ein Prototyp sendet bereits Daten aus einem Garten. Entstehen sollen kostengünstige DIY-Sensor-Kits, die Einwohner:innen der Region für das Citizen-Science-Projekt begeistern 
+
+Das Projekt ➠[sensor.community](https://sensor.community/de/) sammelte weiterhin offene Umweltdaten, die Hunderte Freiwillige in vielen Ländern in das Portal selbst einspeisen. Mit kostengünstigen DIY-Bausätzen können Menschen allerorts eigene Feinstaubsensoren bauen und mit deren Daten in die globale Datenbank erweitern. Die Community sammelte mit 14.000 Sensoren bisher 17.000.000.000 Datenpunkte zur Luftqualität in 74 Ländern. Die gesammelten Daten ermöglichen jeder einzelnen Bürger:in die tagesgenaue Messung von Luftverschmutzung vor der eigenen Haustür sowie einen Vergleich mit anderen Regionen. Die Daten werden vielfach für Forschungs- und Anwendungsprojekte genutzt. Im Jahr 2021 haben zahlreiche private Spender:innen es ermöglicht, ein Forum für die weltweite Community einzurichten und die lokalen Gruppen in deren interner Kommunikation zu stärken. Zusätzlich zum Luftsensor wird gerade an einem Lärmsensor gearbeitet. Trotz des aktuell noch recht aufwändigen Aufbaus und der aktuellen Situation waren 2021 rund 170 Lärmsensoren im Einsatz. Ziel ist es, auch für den Lärmsensor einen Bausatz zu schaffen, der kostengünstig und einfach im Aufbau ist. 
+
+Im Projekt [Digitale Kommune](https://nexusinstitut.de/digitale-kommune-digitale-region-soziokulturelle-auswirkungen-durch-digitalisierung-und-kuenstliche-intelligenz/), für das wir seit 2019 mit dem nexus-Institut kooperieren, werden partizipative Strategieansätze für eine nachhaltige Digitalisierung in Kommunen und Regionen entwickelt. Schwerpunkt unseres Arbeitspakets ist das Bereitstellen von Handreichungen auf einer niedrigschwelligen Webseite für Verwaltungsmitarbeiter:innen. 
+
+Auch andere Publikationen richteten sich an die Zielgruppe von Verwaltungsmitarbeiter:innen: Der Ende 2020 vollständig von Ehrenamtlichen erstellte Leitfaden ➠[HowTo Hackathon](https://codefor.de/ressourcen/) – Wann und wie Hackathons kommunalen Verwaltungen helfen können wurde im Jahr 2021 mit zahlreichen  Verwaltungen geteilt. Diese Anleitung richtet sich an Mitarbeitende in Verwaltungen und gibt Antworten auf die Frage, wann Hackathons eine sinnvolle Maßnahme sind und was man sich von dem Format erwarten kann. Unter dem Titel Out in the Open wird seit März 2021 eine ➠[monatliche Blogreihe](https://codefor.de/blog/) auf codefor.de veröffentlicht. Die Beiträge werden von ehrenamtlichen Expert:innen recherchiert und verfasst , die Interessierten die wichtigsten Ereignisse aus dem Bereich Civic Tech und Open Data in Deutschland näherbringen. Im September erzählten wir in einem Gastbeitrag auf dem ➠[Blog Öffentliche IT](https://www.oeffentliche-it.de/-/so-gelingt-open-government-mit-dem-maengelmelder-in-bonn) des Frauenhofer Instituts anhand des Mängelmelders Bonn eine Erfolgsgeschichte von Open Government. 
+
+Im Jahr 2021 haben wir uns stark mit der internen Reorganisation unseres Netzwerks auseinandergesetzt, besonders mit dem Verhältnis von Ehren- und Hauptamtlichen. Schwerpunkte lagen daher auf der zwischenmenschlichen Ebene, im Pflegen von Kontakten und dem Wiederaufnehmen persönlicher Treffen.  Am 6. März trafen sich rund 100 Personen zum ➠[Open Data Day](https://oknrw.de/rueckblende-digitaler-oknrw-open-data-day-2021/), um im Format eines online Barcamps die Zukunft von Civic Tech und digitalem Ehrenamt zu besprechen. Ende des Jahres wurden auch wieder Treffen vor Ort möglich: Am 30. und 31. Oktober, anlässlich des Hackdays Moers, traf sich die Community zum ersten bundesweiten Vor-Ort-Meetup seit Beginn der COVID-19-Pandemie. Als erweitertes Rahmenprogramm vom Forum Offene Stadt Hamburg wurde vom 26.-27. November ein Community Summit möglich.
+
+ 
+# Output
+
   * Es gibt 18 aktive OK-Labs in Deutschland, die sich mit ihren Gemeinden vernetzen.
 
   * In Nürnberg gründete eine Gruppe engagierter Ehrenamtlicher ein neues OK-Lab. 
@@ -108,35 +132,19 @@ outputs: >
   
   * Im Netzwerk werden zahlreiche Projekte umgesetzt, die den Nutzen von Offenen Daten aufzeigen.
 
-outcome: >
-  Es bildet sich eine starke Civic-Tech-Community in Deutschland. Die Frage der Resilienz, die v. a. seit der Coronapandemie die Verwaltungen verstärkt beschäftigt, hat viele Themen des Code-for-Germany-Netzwerks berührt. Durch unsere Beispiele werden Politik & Verwaltungen dazu inspiriert, weitere Daten zu öffnen und ihre technische Infrastruktur nachhaltig und selbstermächtigt zu gestalten. 
+# Outcome
+  
+Es bildet sich eine starke Civic-Tech-Community in Deutschland. Die Frage der Resilienz, die v. a. seit der Coronapandemie die Verwaltungen verstärkt beschäftigt, hat viele Themen des Code-for-Germany-Netzwerks berührt. Durch unsere Beispiele werden Politik & Verwaltungen dazu inspiriert, weitere Daten zu öffnen und ihre technische Infrastruktur nachhaltig und selbstermächtigt zu gestalten. 
 
-impact:  >
-  Durch unsere Bemühungen um Use Cases, Veröffentlichungen und Veranstaltungen werden Verwaltungen und Regierungen transparenter. Dies führt dazu, dass Bürger:innen besser informiert sind und sich daher mehr zutrauen in Bezug auf Bürgerbeteiligung und Mitsprache. Das Bewusstsein für die Relevanz von Open Source, Open Data und Open Government für das Gemeinwohl steigt. Wir erkennen als gute Nebenwirkungen, dass Kommunen und Verwaltungen effizienter arbeiten, Menschen ihre technischen Fähigkeiten für etwas Gutes einsetzen und mehr technische Mündigkeit (Data Literacy) entsteht. 
+# Impact
+  
+Durch unsere Bemühungen um Use Cases, Veröffentlichungen und Veranstaltungen werden Verwaltungen und Regierungen transparenter. Dies führt dazu, dass Bürger:innen besser informiert sind und sich daher mehr zutrauen in Bezug auf Bürgerbeteiligung und Mitsprache. Das Bewusstsein für die Relevanz von Open Source, Open Data und Open Government für das Gemeinwohl steigt. Wir erkennen als gute Nebenwirkungen, dass Kommunen und Verwaltungen effizienter arbeiten, Menschen ihre technischen Fähigkeiten für etwas Gutes einsetzen und mehr technische Mündigkeit (Data Literacy) entsteht. 
     
-evaluation: >
-  Durch die pandemiebedingte Überlastung vieler Menschen war im Jahr 2021 einen Rückgang an ehrenamtlicher Beteiligung zu beobachten. Dennoch konnten wir den Kern unseres Netzwerks halten und teilweise sogar neue Aktive gewinnen. Selbstorganisierte Aktivitäten der Freiwilligen, wie die Blogserie Out in the Open oder die Arbeitsgruppe zu Linked Open Data wurden von Freiwilligen initiiert und durchgeführt. Uns kommt dabei die Rolle der Unterstützerin und Enablerin zu: Diese Rollenverteilung, mit den Ehrenamtlichen als Tonangebende und der OKF als Verstärkerin ihrer Ideen, hat sich als eine sehr produktive Arbeitsweise erwiesen. Zusammen mit den Ehrenamtlichen haben wir ein Stellenprofil für eine Junior Community Redakteur:in als neue hauptamtliche Stelle erarbeitet, die auf die Bedürfnisse des Netzwerks nach mehr politischer Kommunikationsarbeit zugeschnitten ist. 
+# Evaluation
+  
+Durch die pandemiebedingte Überlastung vieler Menschen war im Jahr 2021 einen Rückgang an ehrenamtlicher Beteiligung zu beobachten. Dennoch konnten wir den Kern unseres Netzwerks halten und teilweise sogar neue Aktive gewinnen. Selbstorganisierte Aktivitäten der Freiwilligen, wie die Blogserie Out in the Open oder die Arbeitsgruppe zu Linked Open Data wurden von Freiwilligen initiiert und durchgeführt. Uns kommt dabei die Rolle der Unterstützerin und Enablerin zu: Diese Rollenverteilung, mit den Ehrenamtlichen als Tonangebende und der OKF als Verstärkerin ihrer Ideen, hat sich als eine sehr produktive Arbeitsweise erwiesen. Zusammen mit den Ehrenamtlichen haben wir ein Stellenprofil für eine Junior Community Redakteur:in als neue hauptamtliche Stelle erarbeitet, die auf die Bedürfnisse des Netzwerks nach mehr politischer Kommunikationsarbeit zugeschnitten ist. 
 
-outlook: >
-  Das Netzwerk möchte sich neben praktischen Anwendungen zukünftig auch auf politische Arbeit fokussieren, um bereits erprobte Tools für die öffentliche digitale Infrastruktur an die öffentliche Hand übergeben zu können und sie in die Verstetigung zu führen.  Für das Jahr 2022 haben wir eine weitere hauptamtliche Stelle für Code for Germany geschaffen. Die neue Junior Community Redakteur:in wird die Aufgabe haben, Use Cases und Best Practices aus dem Netzwerk zu dokumentieren, um das Wissen unserer Expert:innen sichtbarer und damit wirksamer zu machen. 
+# Ausblick
 
-    
----
+Das Netzwerk möchte sich neben praktischen Anwendungen zukünftig auch auf politische Arbeit fokussieren, um bereits erprobte Tools für die öffentliche digitale Infrastruktur an die öffentliche Hand übergeben zu können und sie in die Verstetigung zu führen.  Für das Jahr 2022 haben wir eine weitere hauptamtliche Stelle für Code for Germany geschaffen. Die neue Junior Community Redakteur:in wird die Aufgabe haben, Use Cases und Best Practices aus dem Netzwerk zu dokumentieren, um das Wissen unserer Expert:innen sichtbarer und damit wirksamer zu machen. 
 
-
-# Das Projekt
-
-Code for Germany ist ein Netzwerk von ehrenamtlichen Menschen, die an nachhaltigen digitalen Projekten für eine offene und gerechte Gesellschaft arbeiten. Zentrales Thema ist dabei, wie Daten, Informationen und Wissen so aufbereitet werden können, dass sie möglichst vielen Menschen zugänglich sind. Dadurch wird die Beteiligung von Bürger:innen an demokratischen Prozessen gestärkt und ihr Lebensalltag erleichtert. Um dies zu ermöglichen, treffen sich Freiwillige regelmäßig in ihren Städten in den Open Knowledge Labs (OK-Labs). Sie diskutieren über Strategien des Open Government und entwickeln digitale Lösungen für Probleme und Bedürfnisse, die sie in ihren Städten und Nachbarschaften identifiziert haben.
-
-
-# inhaltliche Schwerpunkte
-
-  Klima und Umwelt waren auch in 2021 ein Fokus für viele Projekte aus dem Netzwerk: Acht Ehrenamtliche der Gruppe Code for Bielefeld zeigten mit einem ➠[Citizen-Science-Projekt im Teutoburger Wald](https://codefor.de/blog/feuchtigkeit-teutoburger-wald/) die Auswirkungen des Klimawandels auf, indem sie die abnehmende Feuchtigkeit des lokalen Waldbodens untersucht haben. Ein Prototyp sendet bereits Daten aus einem Garten. Entstehen sollen kostengünstige DIY-Sensor-Kits, die Einwohner:innen der Region für das Citizen-Science-Projekt begeistern 
-
-  Das Projekt ➠[sensor.community](https://sensor.community/de/) sammelte weiterhin offene Umweltdaten, die Hunderte Freiwillige in vielen Ländern in das Portal selbst einspeisen. Mit kostengünstigen DIY-Bausätzen können Menschen allerorts eigene Feinstaubsensoren bauen und mit deren Daten in die globale Datenbank erweitern. Die Community sammelte mit 14.000 Sensoren bisher 17.000.000.000 Datenpunkte zur Luftqualität in 74 Ländern. Die gesammelten Daten ermöglichen jeder einzelnen Bürger:in die tagesgenaue Messung von Luftverschmutzung vor der eigenen Haustür sowie einen Vergleich mit anderen Regionen. Die Daten werden vielfach für Forschungs- und Anwendungsprojekte genutzt. Im Jahr 2021 haben zahlreiche private Spender:innen es ermöglicht, ein Forum für die weltweite Community einzurichten und die lokalen Gruppen in deren interner Kommunikation zu stärken. Zusätzlich zum Luftsensor wird gerade an einem Lärmsensor gearbeitet. Trotz des aktuell noch recht aufwändigen Aufbaus und der aktuellen Situation waren 2021 rund 170 Lärmsensoren im Einsatz. Ziel ist es, auch für den Lärmsensor einen Bausatz zu schaffen, der kostengünstig und einfach im Aufbau ist. 
-
-  * Im Projekt [Digitale Kommune](https://nexusinstitut.de/digitale-kommune-digitale-region-soziokulturelle-auswirkungen-durch-digitalisierung-und-kuenstliche-intelligenz/), für das wir seit 2019 mit dem nexus-Institut kooperieren, werden partizipative Strategieansätze für eine nachhaltige Digitalisierung in Kommunen und Regionen entwickelt. Schwerpunkt unseres Arbeitspakets ist das Bereitstellen von Handreichungen auf einer niedrigschwelligen Webseite für Verwaltungsmitarbeiter:innen. 
-
-  * Auch andere Publikationen richteten sich an die Zielgruppe von Verwaltungsmitarbeiter:innen: Der Ende 2020 vollständig von Ehrenamtlichen erstellte Leitfaden ➠[HowTo Hackathon](https://codefor.de/ressourcen/) – Wann und wie Hackathons kommunalen Verwaltungen helfen können wurde im Jahr 2021 mit zahlreichen  Verwaltungen geteilt. Diese Anleitung richtet sich an Mitarbeitende in Verwaltungen und gibt Antworten auf die Frage, wann Hackathons eine sinnvolle Maßnahme sind und was man sich von dem Format erwarten kann. Unter dem Titel Out in the Open wird seit März 2021 eine ➠[monatliche Blogreihe](https://codefor.de/blog/) auf codefor.de veröffentlicht. Die Beiträge werden von ehrenamtlichen Expert:innen recherchiert und verfasst , die Interessierten die wichtigsten Ereignisse aus dem Bereich Civic Tech und Open Data in Deutschland näherbringen. Im September erzählten wir in einem Gastbeitrag auf dem ➠[Blog Öffentliche IT](https://www.oeffentliche-it.de/-/so-gelingt-open-government-mit-dem-maengelmelder-in-bonn) des Frauenhofer Instituts anhand des Mängelmelders Bonn eine Erfolgsgeschichte von Open Government. 
-
-  * Im Jahr 2021 haben wir uns stark mit der internen Reorganisation unseres Netzwerks auseinandergesetzt, besonders mit dem Verhältnis von Ehren- und Hauptamtlichen. Schwerpunkte lagen daher auf der zwischenmenschlichen Ebene, im Pflegen von Kontakten und dem Wiederaufnehmen persönlicher Treffen.  Am 6. März trafen sich rund 100 Personen zum ➠[Open Data Day](https://oknrw.de/rueckblende-digitaler-oknrw-open-data-day-2021/), um im Format eines online Barcamps die Zukunft von Civic Tech und digitalem Ehrenamt zu besprechen. Ende des Jahres wurden auch wieder Treffen vor Ort möglich: Am 30. und 31. Oktober, anlässlich des Hackdays Moers, traf sich die Community zum ersten bundesweiten Vor-Ort-Meetup seit Beginn der COVID-19-Pandemie. Als erweitertes Rahmenprogramm vom Forum Offene Stadt Hamburg wurde vom 26.-27. November ein Community Summit möglich. 
