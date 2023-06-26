@@ -46,3 +46,6 @@ Deutsche Gesellschaft für Internationale Zusammenarbeit
 
 Als Themen für 2023 stehen die Erarbeitung des 5. D-EITI-Berichts und die strategische Ausrichtung von D-EITI an. Anlässlich von 20 Jahren EITI im Jahr 2023 steht eine weitere Vernetzung mit internationalen Partnern an. 
 
+### Website
+
+[https://www.d-eiti.de/](https://www.d-eiti.de/)
