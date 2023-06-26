@@ -7,6 +7,7 @@ permalink: /projekte/prototypefund/
 visual:
     img: /assets/images/opengovernment/ptf-trialerror.png
     alt: Prototype Fund Trial Error Schriftzug
+    
 problem:
 - text: Digitale Innovation nutzt häufig nur wenigen und nicht der breiten Gesellschaft.
 - text: Technologien im Interesse des Gemeinwohls erhalten wenig finanzielle Förderung.
@@ -24,7 +25,7 @@ solution:
 - title: niedrigschwellige Förderung,
   text: Mit einem einfachen Bewerbungsprozess und einem niedrigschwelligen Förderverfahren zeigen wir, dass die Förderung digitaler Innovationen aus der Gesellschaft möglich und wünschenswert ist.
 - title: Kompetenzaufbau
-  text:  Coachings in den Bereichen UX/UI, Security und Projektmanagement vermitteln der Open-Source-Community Wissen, das auch bei der Umsetzung weiterer Projekte nützlich sein kann.
+  text:  Coachings in den Bereichen User Experience/User Interface, Security, Projektmanagement, Unternehmensgründung sowie zu freien Themen vermitteln der Open-Source-Community Wissen, das auch bei der Umsetzung weiterer Projekte nützlich sein kann.
 - title: und Sichtbarkeit
   text: (Kleine) Projekte und Prototypen erhalten durch die finanzielle Förderung des BMBF mehr Sichtbarkeit – über die Website des Prototype Fund, Medien, Konferenzen und andere Veranstaltungen sowie aktive Vernetzungsarbeit.
 effect:
@@ -34,6 +35,9 @@ effect:
    
 
      Die Bereitschaft, prototypische Projekte mit kleineren Summen zu fördern, steigt.
+
+
+       Das Programm bekommt eine Vorbildwirkung für weitere künftige Förderprogramme.
 - title: auf Entwickler:innen,
   text: >
      Innovative Ideen werden schneller getestet und Förderungen werden als realistische Möglichkeit angesehen, Projekte umzusetzen.
@@ -46,16 +50,13 @@ effect:
 
 
      Es entstehen mehr Tools, Angebote und Infrastruktur für eine souveräne, digital handlungsfähige und informierte Gesellschaft.
-- title: gesellschaftliche Wirkung
-  claim: Digitale Innovation wird vorangetrieben und mehr digitale Tools sowie sichere Infrastruktur für die Gesellschaft werden geschaffen.
-
 
 ---
 
 
 # Das Projekt
 
-Der Prototype Fund erforscht und fördert Public-Interest-Tech-Projekte aus der Gesellschaft für die Gesellschaft. Die stetig wachsende Bedeutung von Technologien, Algorithmen und Daten verlangt einen aufgeklärten und selbstbestimmten Umgang der Nutzer:innen mit diesen. Darüber hinaus ist es wichtig, innovative Technologien nicht (nur) im Interesse der Wirtschaftlichkeit zu entwickeln sondern sie (auch) in den Dienst der Gesellschaft zu stellen. Deswegen sind mehr als gute anwendungsfreundliche Werkzeuge nötig – wir brauchen auch nachhaltige technische und kommunikative Infrastrukturen, die dazu beitragen, Bürger:innen- und Freiheitsrechte zu wahren. 2016 hat die OKF DE daher zusammen mit dem Bundesministerium für Bildung und Forschung den Prototype Fund als speziellen Förderfond ins Leben gerufen, der sich an Einzelpersonen und kleine Teams richtet, die auf Basis konkreter Bedürfnisse Open-Source-Software entwickeln – andere können an den Ergebnissen teilhaben und sie weiterverwerten.
+Der Prototype Fund erforscht und fördert Public-Interest-Tech-Projekte aus der Gesellschaft für die Gesellschaft. Die stetig wachsende Bedeutung von Technologien, Algorithmen und Daten verlangt einen aufgeklärten und selbstbestimmten Umgang der Nutzer:innen mit diesen. Darüber hinaus ist es wichtig, innovative Technologien nicht (nur) im Interesse der Wirtschaftlichkeit zu entwickeln, sondern sie (auch) in den Dienst der Gesellschaft zu stellen. Deswegen sind mehr als gute, anwendungsfreundliche Werkzeuge nötig – wir brauchen auch nachhaltige technische und kommunikative Infrastrukturen, die dazu beitragen, Bürger:innen- und Freiheitsrechte zu wahren. 2016 hat die OKF daher zusammen mit dem Bundesministerium für Bildung und Forschung den Prototype Fund als speziellen Förderfond ins Leben gerufen, der sich an Einzelpersonen und kleine Teams richtet, die auf Basis konkreter Bedürfnisse Open-Source-Software entwickeln – andere können an den Ergebnissen teilhaben und sie weiterverwerten.
 
 # Was ist 2022 passiert?
 
@@ -63,9 +64,15 @@ Der Prototype Fund erforscht und fördert Public-Interest-Tech-Projekte aus der 
 
 ### Laufzeit
 
-  Das Projekt startete im Mai 2016 und wurde in diesem Jahr bis April 2025 verlängert.
+  Das Projekt startete im Mai 2016 ​und läuft bis ​April 2025.
 
 ### Budget
+
+ **2022**<br>
+  Einnahmen: 387.942 € <br>
+  Ausgaben: 397.013 € <br>
+  davon Personalausgaben: 259.720 € <br>
+  davon Sachausgaben: 137.293 €
   
   **2021** <br>
   Einnahmen: 392.062 € <br>
@@ -73,62 +80,61 @@ Der Prototype Fund erforscht und fördert Public-Interest-Tech-Projekte aus der 
   davon Personalausgaben: 291.351 € <br>
   davon Sachausgaben: 103.892 €
   
-  **2020**<br>
-  Einnahmen: 503.817 € <br>
-  Ausgaben: 507.460 € <br>
-  davon Personalausgaben: 397.496 € <br>
-  davon Sachausgaben: 109.964 €
-  
 ### Personal
   
-  Projektleitung: Adriana Groh / Patricia Leu, Marie Gutbub | Begleitforschung: Katharina Meyer / Claudia Jach | Projektmanagement: Thomas Friese, Marie Gutbub / Patricia Leu | Kommunikation: Patricia Leu | Controlling: Petra Bálint | technische Administration: Gregor Gilka
-  
+    Projektleitung: Patricia Leu, Marie Gutbub <br>
+    Begleitforschung: Claudia Jach <br>
+    Projektmanagement: Marie Gutbub, Patricia Leu <br> 
+    Kommunikation: Patricia Leu, Joram Schwartzmann <br>
+    Studentische Hilfskraft und Projektbetreuung: Francesca Giacco, Studentische Hilfskraft und Kommunikation: Felizitas Fauther <br>
+    Controlling: Petra Bálint <br>
+    technische Administration: Gregor Gilka <br>
+
 ### Förderung
   
-  Bundesministerium für Bildung und Forschung<br>
+  Bundesministerium für Bildung und Forschung <br>
   Projektträger ist das Deutsche Zentrum für Luft- und Raumfahrt.
   
  
 # inhaltliche Schwerpunkte
 
-Wie in jedem Jahr fanden auch 2021 wieder zwei Förderrunden statt. Beide wurden themenoffen gestaltet. Darüber hinaus lagen die Schwerpunkte der Aktivitäten in der Aufarbeitung der Forschungsergebnisse aus den Jahren 2016 bis 2020, in der breiteren Außenkommunikation über die Förderprojekte, z. B. auf der Website des Programms. Zudem wurde mit der Einführung neuer Formate großer Wert auf die Vernetzung der Geförderten untereinander gelegt. Diese kam während der Pandemie leider oft zu kurz.
+Wie bereits in den Jahren zuvor, fanden im Jahr 2022 zwei themenoffene Förderrunden statt. Neben der Rückkehr zu Veranstaltungen in Präsenz lag der Fokus auf der Entwicklung neuer Formate zum Wissensmanagement und der Vernetzung mit internationalen Partnerorganisationen. Außerdem wurden im Rahmen der Begleitforschung zwei Trendberichte zu aktuellen Themen verfasst.
 
+# Output
 
-# Outputs
+Die Pandemie machte es 2020 notwendig, Veranstaltungsformate zu überarbeiten. Zu Beginn des Jahres 2022 wurde das erprobte Format der ➠[digitalen Demo Week](https://demoweek.prototypefund.de/) anstelle eines typischen Demo Days in Präsenz fortgesetzt. Vom 28.02.2022 bis zum 04.03.2022 stellten die Projekte der 10. Förderrunde ihre Ergebnisse vor. Dazu wurde die zuvor aufgebaute Infrastruktur genutzt, um Geförderten Raum für Videos, Blogposts oder Live-Demos zu geben. Eine Auftaktveranstaltung mit Livestream stimmte die 29 Projekte der Förderrunde auf die Demo Week ein, in deren Verlauf alle Projekte ihre Ergebnisse zeigten. Ein breites Publikum konnte so die Prototypen virtuell erleben.
 
-* Vom 22. bis zum 26. Februar fand anstatt des traditionellen Demo Days für den Abschluss der 8. Förderrunde zum zweiten Mal eine ➠[digitale Demo Week](https://archive.demoweek.prototypefund.de/runde8/) statt. Es wurde hierzu eine Webseite aufgesetzt, die es den Projekten ermöglichte, sich in verschiedenen Formaten vorzustellen: Video, Blogpost oder Live Demo. So konnte das Abschlussevent einem breiten Publikum zugänglich gemacht werden. Das Programm der Demo Week wurde eingerahmt von einem Eröffnungs- und Abschlussevent, die beide ebenfalls im Nachgang auf der Webseite verfügbar waren. Die Vorstellungen der 17 Projekte fanden über vier Tage verteilt statt. 
+Am 1. März 2022 fand der digitale Kick-Off-Workshop der ➠[11. Förderrunde](https://prototypefund.de/projects/round-11/) statt. Die 24 Förderprojekte wurden durch das Team des Prototype Fund, Vertreter:innen des Deutschen Zentrums für Luft- und Raumfahrt, das den Prototype Fund als Projektträger gemeinsam mit der OKF betreut, und die Moderator:innen der Coachingfirma zero360 auf die anstehende Umsetzungsphase vorbereitet.
 
-* Am 1. März fand der digitale ➠[Kickoff-Workshop der 9. Runde](https://prototypefund.de/projects/round-9/) statt. Die 28 Förderprojekte wurden durch das Team des Prototype Fund, Vertreter:innen des Deutschen Zentrums für Luft- und Raumfahrt, das als Projektträger für die Fördermaßnahme fungiert, und die Moderator:innen von zero360 auf die anstehende Umsetzungsphase vorbereitet.
+Parallel dazu fand die Bewerbungsphase für die 12. Förderrunde vom 1. Februar bis zum 31. März statt. Bewerber:innen konnten Projekte zu den vier Fördersäulen Civic Tech, Data Literacy, Software-Infrastruktur und Datensicherheit einreichen. Der begleitende Trendreport untersuchte, wie Public-Interest-Technologien zu mehr Datensicherheit beitragen können. Für die 12. Förderrunde gingen 171 gültige Bewerbungen ein, davon wurden 57 % von Teams eingereicht. Einige Themenkomplexe waren überdurchschnittlich häufig vertreten, darunter Softwarelösungen zu Mobilität, Nachhaltigkeit, humanitärer Hilfe, Freiwilligenmanagement und IT-Bildung.
 
-* Vom 1. Februar bis 31. März 2021 lief zudem die Bewerbungsrunde für die 10. Förderrunde. Wie schon in der vorhergegangenen Runde war der Call themenoffen und Projekte konnten sich innerhalb der vier thematischen Säulen Civic Tech, Data Literacy, Software-Infrastruktur und Datensicherheit bewerben. Begleitend zur Bewerbungsrunde wurde ein ➠[Trendreport](https://prototypefund.de/wp-content/uploads/2021/01/Trendforschung-zur-Runde-10-Journalismus.pdf) angefertigt, der ein Augenmerk auf die Rolle, Herausforderungen und Chancen von Medien und Journalismus in der „digitalen Konstellation“ legt. Es gingen für die 10. Runde insgesamt 300 gültige Bewerbungen ein. 62 Prozent aller Bewerbungen erfolgten als Team. Angeregt vom Trendforschungsreport reichten zahlreiche Bewerber:innen Ideen rund um Medien und Journalismus ein. Weitere Themen und Bereiche, die überproportional häufig vorkamen, waren die Corona-Pandemie, der Zugang zu politischen Beschlüssen, Konsensmechanismen, das Semantic Web, gendersensible Sprache, Umweltdaten, Programmierung für Einsteiger:innen, Natural Language Processing, Ehrenamt und Vereine sowie zahlreiche Projekte mit Audiofokus.
+Am 31. August 2022 fand der erste ➠[Demo Day](https://prototypefund.de/demo-day-runde-11/) seit dem Beginn der Corona-Pandemie in Präsenz statt. Rund 140 Teilnehmer:innen kamen im bUm in Berlin zusammen und erlebten die Ergebnisse der 24 Projekte der 11. Förderphase in der Form von Vorträgen, thematischen Panels und Live-Demos. Zusätzlich wurde den Teilnehmer:innnen eine Keynote von Sonja Köhne, Assoziierte Doktorandin am Alexander von Humboldt Institut für Internet und Gesellschaft und Research Fellow der Denkfabrik Digitale Arbeitsgesellschaft im Bundesministerium für Arbeit und Soziales geboten. Sie sprach über People-Analytics-Technologien, deren Chancen, Risiken und Gestaltungsmöglichkeiten im Sinne der Beschäftigten. Die Veranstaltung wurde durch Beiträge in sozialen Medien und in der Form eines ➠[professionellen Videos](https://www.youtube.com/watch?v=fvaU5D6o_4Q) dokumentiert.
 
+Die Kick-Off-Veranstaltung zur ➠[12. Förderrunde](https://prototypefund.de/projects/round-12/) fand am 1. September 2022 in Berlin statt. Dort bereiteten das Team Prototype Fund, Vertreter:innen des Deutschen Zentrums für Luft- und Raumfahrt und den Moderator:innen der Coachingfirma zero360 die 21 Projekte auf die anstehende Umsetzungsphase vor.
 
-* Die Demo Week der 9. Runde fand vom 30. August bis 3. September virtuell statt. Auf der ➠[Demo Week Website](https://archive.demoweek.prototypefund.de/runde9/) sind die Präsentationen der 28 Projekte sowie die Eröffnungsveranstaltung festgehalten, in der mit einer Keynote und einem Panel auf die Woche eingestimmt wurde. Wiederum wurden die Präsentationen der Projekte in den folgenden Tagen über die Kanäle des PTF ausgespielt. Am 1. September startete beim Kickoff mit 29 Förderprojekten unsere ➠[10. und bislang größte Förderrunde](https://prototypefund.de/projects/round-10/). Im Kickoffworkshop wurden die Geförderten erneut vom Team des Prototype Fund sowie den Moderator:innen auf die Förderphase vorbereitet.
+Die Bewerbungsphase für die 13. Förderrunde lief vom 1. August bis zum 30. September. In dieser Zeit gingen 150 gültige Bewerbungen ein, von denen 51 % von Teams eingereicht wurden. Zentrale Themen, die besonders häufig genannt wurden, waren Softwarelösungen für den Fachkräftemangel, Jugendbildung, Transport, Künstliche Intelligenz, und Barrierefreiheit. Die Einreichungen ordneten sich wie folgt den thematischen Schwerpunkten zu: 52 % zählten zu Civic Tech, 29 % zu Software-Infrastruktur, 16 % zu Data Literacy und 3 % zu Datensicherheit.
 
-
-* In der Bewerbungsphase für die 11. Förderrunde, die vom 1. August bis 30. September 2021 andauerte, wurden 162 gültige Projektskizzen eingereicht. 59 % wurden von Teams eingereicht. Die thematische Aufteilung auf die Grundsäulen des Prototype Funds gestaltete sich diesmal wie folgt: 64 % der Einreichungen ordneten sich dem Feld Civic Tech zu, 1 % zu Data Literacy, 12 % zu Datensicherheit und 17 % zu Software-Infrastruktur. 6 % ordneten sich anderen Bereichen zu.
-
-* Die Veröffentlichung des 2020 eingeführten ➠[Public Interest Podcast](https://prototypefund.de/public-interest-podcast-nachhaltigkeit/) wurde fortgeführt. Nachdem bis zum Frühling 2021 vier Folgen erschienen waren, wurde die Produktion in thematischen Staffeln begonnen. So erschien im November eine fünfteilige Staffel zum Thema Open Source und Gesundheit. Des Weiteren erschienen auf dem ➠Blog Gastbeiträge von Expert:innen zu Public Interest Tech.
+Der im Jahr 2020 gestartete ➠[Public Interest Podcast](https://prototypefund.de/podcast) veröffentlichte eine neue Staffel, diesmal zum Thema Public Interest Tech und Nachhaltigkeit. Passend dazu war ein Teil des Teams Prototype Fund in die Organisation der ➠[Bits & Bäume-Konferenz](https://bits-und-baeume.org/) in Berlin eingebunden, auf der Open Source Software und Nachhaltigkeit eine zentrale Rolle spielten. Darüber hinaus wurden eine Reihe von ➠[Gastbeiträgen](https://prototypefund.de/news/?filter=topics&topics=text) aus der Community zu Public Interest Tech auf dem Blog des Prototype Fund veröffentlicht. Außerdem verstärkten wir den internationalen Erfahrungsaustausch mit anderen Fördermittelgebern.
 
 # Outcome
   
-* Technologie erlangt einen anderen gesellschaftlichen Stellenwert, wenn ihre positiven Aspekte gegenüber den Risiken herausgestellt werden. Dem nimmt sich der Prototype Fund an: Die Geförderten entwickeln neue Kompetenzen (UX-/UI-Design, Security, Projekt- oder Teammanagement etc). Eine Community aus Open-Source-Entwickler:innen wird aufgebaut, die ihre Fähigkeiten und Ressourcen in den Dienst der Gesellschaft stellt. Das Programm zeigt gezeigt, wie eine Projektförderung tatsächlichfunktionieren kann. Der Fund ist somit Vorbild – und wird in Teilaspekten von anderen Förderern aufgegriffen. Häufig forschen und arbeiten Menschen in diesem Bereich ehrenamtlich und/oder in ihrer Freizeit und werden von klassischen öffentlichen Fördermaßnahmen nicht erreicht, da diese sich in der Regel an Unternehmen, Forschungseinrichtungen oder andere Institutionen richten. Ein großer Teil des digitalen Ehrenamts wird jedoch von Einzelpersonen und kleinen interdisziplinären Teams geleistet. Weil diese aufgrund unpassender Fördermechanismen ihre Projekte nicht konzentriert verfolgen können, kommt ein enormes Innovationspotenzial nicht zum Tragen. Damit überlassen wir als Gesellschaft digitale Angebote den großen Konzernen und profitorientierter Forschung, fördern das Sammeln teilweise kritischer Daten und erhalten proprietäre statt offene Lösungen. Der Bedarf an Alternativen ist entsprechend groß.
+Ziel des Prototype Fund ist es, durch die Förderung von Softwareprojekten im Gemeininteresse das gesellschaftliche Potenzial von Technologie zu stärken. Die Geförderten können neue Kompetenzen (z. B. in den Bereichen UX-/UI-Design, Security, Projekt- oder Teammanagement etc.) entwickeln. Außerdem haben sie die Möglichkeit, eine Community aus Open-Source-Entwickler:innen aufzubauen oder zu stärken, die ihre Fähigkeiten und Ressourcen in den Dienst der Gesellschaft stellt. Das Programm zeigt, wie eine niedrigschwellige Projektförderung funktionieren kann. Häufig forschen und arbeiten Menschen in diesem Bereich ehrenamtlich und/oder in ihrer Freizeit und werden von klassischen öffentlichen Fördermaßnahmen nicht erreicht, da sich diese in der Regel an Unternehmen, Forschungseinrichtungen oder andere Institutionen richten. Ein großer Teil des digitalen Ehrenamts wird jedoch von Einzelpersonen und kleinen interdisziplinären Teams geleistet. Weil diese durch Förderprogramme oft nicht erreicht werden, können sie ihre Projekte nicht immer konzentriert verfolgen und ihr volles Innovationspotenzial entfalten. Damit überlassen wir als Gesellschaft digitale Angebote den großen Konzernen und profitorientierter Forschung, fördern das Sammeln teilweise kritischer Daten und erhalten proprietäre statt offener Lösungen. Der Bedarf an Alternativen ist entsprechend groß.
 
-* Der Prototype Fund wird auch zunehmend als Vorbild für ähnliche Förderprogramme innerhalb Deutschlands und im europäischen Ausland gesehen. Der bereits angelaufene Prototype Fund Schweiz, mit dem es einen engen Austausch gibt, profitiert stark durch die bereits gewonnenen Erfahrungen aus dem deutschen Prototype Fund und wurde darüber hinaus durch ein Teammitglied des deutschen Prototype Fund ehrenamtlich in der Jury unterstützt. Mit dem ➠[Prototype Fund Hardware](https://hardware.prototypefund.de/) wurde zudem innerhalb der OKF DE in Kooperation mit drei weiteren Partnern und finanziert durch die WIR!-Initiative des Bundesministerium für Bildung und Forschung ein ähnliches Programm  für die Förderung zivilgesellschaftlich relevanter Hardware ins Leben gerufen.
+Der Prototype Fund dient als Vorbild für andere Förderprogramme. Der im Jahr 2020 gegründete ➠[Prototype Fund Schweiz](https://prototypefund.opendata.ch/) hat beispielsweise bereits drei erfolgreiche Förderrunden durchlaufen. Der deutsche ➠[Prototype Fund Hardware](https://hardware.prototypefund.de/), ebenfalls unter dem Dach der OKF, unterstützt als Pilotprojekt die Entwicklung von freier Hardware. Der ➠[Sovereign Tech Fund](https://sovereigntechfund.de/de/) (gefördert vom Bundesministerium für Wirtschaft und Klimaschutz und im Jahr 2022 gegründet) schließt die Lücke der langfristigen Finanzierung von freier Software und fördert den Erhalt von digitaler Infrastruktur.
+
 
 # Impact
   
-* Technologien werden nutzer:innenfreundlich und sicher weiterentwickelt. Soziales Engagement wird nachhaltiger unterstützt. Das Fördersystem wird um eine andere Kultur ergänzt, denn der Prototype Fund fördert Civic-Tech-Projekte und kleine Teams sowie technische Infrastruktur – mit gesellschaftlichen, nicht  wirtschaftlichen Interessen an erster Stelle.
+Durch den Prototype Fund können Technologien nutzer:innenfreundlich und sicher entwickelt werden. Soziales Engagement von freien Softwareentwickler:innen wird nachhaltiger unterstützt. Hürden in der deutschen Förderlandschaft werden abgebaut und auch für das digitale Ehrenamt geöffnet, denn der Prototype Fund fördert Civic-Tech-Projekte und kleine Teams sowie technische Infrastruktur – mit gesellschaftlichen, nicht wirtschaftlichen Interessen an erster Stelle.
 
-* Die Civic Innovation Platform des Bundesministeriums für Arbeit und Soziales ist im Juni 2021 in eine zweite Bewerbungsrunde gestartet. In die Entstehung der Plattform flossen Erfahrungen des Prototype Fund ein. Im Schweizer Prototype Fund startete im April ebenfalls bereits die zweite Bewerbungsphase für innovative Open-Source-Projekte, welche die demokratische Partizipation in der Schweiz durch digitale Lösungen stärken.
-
+Mit internationalen Förderern haben wir Erfahrungen zu Themen wie Diversität, Förderstrukturen und nachhaltiger Unterstützung von Open-Source-Projekten ausgetauscht. Besonders eng war der Austausch mit dem Prototype Fund Schweiz. Dieser startete 2022 seine dritte Förderphase für innovative Open-Source-Projekte, welche die demokratische Partizipation in der Schweiz durch digitale Lösungen stärken.
 
 # Evaluation
 
-Der Prototype Fund ist ein Forschungsprojekt, das die Frage beantworten will, wie neue Zielgruppen für öffentliche Fördergelder erschlossen werden können und wie die öffentlichen Fördermaßnahmen so angepasst werden können, dass sie für neue Zielgruppen auch nutzbar sind. In der Begleitforschung wird jede Förderrunde bezüglich Outreach, Bewerbungs- und Bewertungsprozess sowie mit Blick auf die Umsetzungsphase evaluiert. Ausgehend von den jeweiligen Ergebnissen werden die Fördermodalitäten von Runde zu Runde angepasst. Besonders hervorzuheben ist hier der Anstieg der Förderquote von 60 % auf 95 % – der Eigenanteil, den die Projekte einbringen müssen, hat sich somit deutlich verringert. Geförderte Projekte erhalten gezielte Coachingangebote, die basierend auf den Erfahrungen der letzten Jahre um Beratung zu Gründungsthemen sowie um ein Kontingent an freien Coachings erweitert wurden. 
+Als Forschungsprojekt untersucht der Prototype Fund, wie öffentliche Förderprogramme niedrigschwellig gestaltet und so für neue Zielgruppen zugänglich gemacht werden können. Für die Beantwortung dieser Frage findet eine kontinuierliche Evaluation aller Förderrunden statt. Deren Ergebnisse in Bezug auf Outreach-Maßnahmen, den Bewerbungs- und Auswahlprozess sowie die Umsetzungsphase werden in zweimal jährlich erscheinenden Evaluationsberichten aufbereitet und der Öffentlichkeit zur Verfügung gestellt. Die Ergebnisse dienen als Grundlage dafür, den Prototype Fund von Runde zu Runde zu verbessern. Überarbeitet wurden im Jahr 2022 insbesondere die Informationsangebote des Prototype Fund: Neben einer Knowledge Base, auf der Geförderte, Alumni und andere Entwickler:innen Erfahrungen und Wissen zum Thema Open-Source-Softwareentwicklung sammeln können, hat der Prototype Fund ein eigenes Wiki erstellt. Dort finden Geförderte alle wichtigen Informationen zum Ablauf der Förderung und können diese selbst weiter ergänzen.
 
 # Ausblick
 
-Das Programm legt besonderen Wert darauf, mit jedem Call neue Zielgruppen anzusprechen und die Gruppe der Einreichenden weiter zu diversifizieren. Des Weiteren wird verstärkt der Blick in die Zukunft gerichtet und ein Fokus darauf gelegt, die Projekte auch über die Förderzeit hinaus nachhaltig erfolgreich zu machen.
+Das Programm legt besonderen Wert darauf, mit jedem Call neue Zielgruppen anzusprechen und die Gruppe der Bewerber:innen weiter zu diversifizieren. Ein wichtiges Ziel für die Zukunft ist, die Geförderten verstärkt dabei zu unterstützen, ihre Projekte auch über die Förderzeit hinaus nachhaltig erfolgreich zu machen.
 
 <br><br><br>
