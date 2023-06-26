@@ -88,15 +88,15 @@ In einer Demokratie ist es notwendig, dass sich Bürger:innen frei über Regieru
 
 ### Personal
 
-  Projektleitung: Arne Semsrott
-  Entwickler:in: Stefan Wehrmeyer / Magdalena Noffke mit den studentischen Hilfskräften Karl Engelhardt / Max Kronmüller
-  Studentische Hilfskraft und Campaignerin: Lea Pfau
-  Head of Operations: Judith Doleschal: Öffentlichkeitsarbeit: Leonie Gehrke / Isa Lachmann / Monica Phương Thúy Nguyễn
-  Lega-Team: Hannah Vos / Vivian Kube / Sebastian Sudrow / Philipp Schönberger mit Rechtsreferendar:innen Clara Willeke / Lorenz Dudew
-  Investigativ-Team: Vera Deleja-Hotko / Aiko Kempen
-  Leitung Brüsseler Büro: Luisa Izuzquiza
-  Studentische Hilfskraft und Bundesfreiwilligendienstleistende: Melek Bazgan
-  Bundesfreiwilligendienstleistende: Tiziana Saab
+  Projektleitung: Arne Semsrott <br>
+  Entwickler:in: Stefan Wehrmeyer / Magdalena Noffke mit den studentischen Hilfskräften Karl Engelhardt / Max Kronmüller <br>
+  Studentische Hilfskraft und Campaignerin: Lea Pfau <br>
+  Head of Operations: Judith Doleschal: Öffentlichkeitsarbeit: Leonie Gehrke / Isa Lachmann / Monica Phương Thúy Nguyễn <br>
+  Lega-Team: Hannah Vos / Vivian Kube / Sebastian Sudrow / Philipp Schönberger mit Rechtsreferendar:innen Clara Willeke / Lorenz Dudew <br>
+  Investigativ-Team: Vera Deleja-Hotko / Aiko Kempen <br>
+  Leitung Brüsseler Büro: Luisa Izuzquiza <br>
+  Studentische Hilfskraft und Bundesfreiwilligendienstleistende: Melek Bazgan <br>
+  Bundesfreiwilligendienstleistende: Tiziana Saab 
 
 ### ehrenamtliche Arbeit
 
