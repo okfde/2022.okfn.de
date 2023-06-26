@@ -81,14 +81,13 @@ Der Prototype Fund erforscht und fördert Public-Interest-Tech-Projekte aus der 
   davon Sachausgaben: 103.892 €
   
 ### Personal
-  
-    Projektleitung: Patricia Leu, Marie Gutbub <br>
-    Begleitforschung: Claudia Jach <br>
-    Projektmanagement: Marie Gutbub, Patricia Leu <br> 
-    Kommunikation: Patricia Leu, Joram Schwartzmann <br>
-    Studentische Hilfskraft und Projektbetreuung: Francesca Giacco, Studentische Hilfskraft und Kommunikation: Felizitas Fauther <br>
-    Controlling: Petra Bálint <br>
-    technische Administration: Gregor Gilka <br>
+  Projektleitung: Patricia Leu, Marie Gutbub <br>
+Begleitforschung: Claudia Jach <br>
+Projektmanagement: Marie Gutbub, Patricia Leu <br> 
+Kommunikation: Patricia Leu, Joram Schwartzmann <br>
+Studentische Hilfskraft und Projektbetreuung: Francesca Giacco, Studentische Hilfskraft und Kommunikation: Felizitas Fauther <br>
+Controlling: Petra Bálint <br>
+technische Administration: Gregor Gilka <br>
 
 ### Förderung
   
