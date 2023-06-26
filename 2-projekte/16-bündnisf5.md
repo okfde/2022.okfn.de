@@ -37,7 +37,6 @@ Im Jahr 2022 haben wir vier parlamentarische Frühstücke mit dem Digitalausschu
 
 Unser regelmäßiges und bereits etabliertes Format eines parlamentarischen Frühstücks setzten wir fort. Zudem werden wir unsere Aktivitäten auf die exekutive Ebene ausweiten und unsere Website überarbeiten.
 
-
 ### Website
 
-[https://www.d-eiti.de/](https://www.d-eiti.de/)
+[https://buendnis-f5.de/](https://buendnis-f5.de/)
