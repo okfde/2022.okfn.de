@@ -41,3 +41,6 @@ Hier ein Auszug der Veröffentlichungen:
 * Der Standard hat festgestellt, dass der Versuch, die GAP-Zahlungen umzuverteilen, erheblich verwässert wurde. Während die neue GAP eine Obergrenze von 100.000 € für die flächenbezogenen Zahlungen einführt, dürfen Großempfänger nun Beschäftigungskosten aufschlagen und erhalten möglicherweise weiterhin ähnliche Mittel wie zuvor.
 * Correctiv zeigt, wer zu den 100 größten deutschen Empfängern öffentlicher Gelder in den letzten acht Jahren gehört. Die Südzucker AG und der Molkereiriese FrieslandCampina mit seinen bekannten Marken wie Landliebe und Chocomel erhalten europaweit zweistellige Millionenbeträge aus dem Agrarhaushalt der EU.
 
+### Website
+
+[https://farmsubsidy.org/](https://farmsubsidy.org/)
