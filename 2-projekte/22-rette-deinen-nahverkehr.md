@@ -37,3 +37,6 @@ Seit der Umsetzung der delegierten Verordnung der EU in nationales Recht werden 
 
 Wir werden die Brief- und Fax-Kampagne aufgrund der Entwicklungen der letzten Jahre 2023 abschließen und künftig auf die notwendigen Entwicklungen zu mehr Datenqualität, eigener Nutzung der Daten in Produktivprozessen durch die Bereitsteller:innen selbst und die Verfügbarkeit von Echtzeit-Informationen in offenen Formaten eingehen.
 
+### Website
+
+[https://rettedeinennahverkehr.de/](https://rettedeinennahverkehr.de/)
