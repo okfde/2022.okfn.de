@@ -8,29 +8,29 @@ visual:
     alt: OKF 10-Jahres-Logo
 ---
 
-### Die OKF DE und FragDenStaat feierten ihren 10. Geburtstag.
-Seit dem 19.02.2011 setzen wir uns für offenes Wissen, digitale Mündigkeit und den ethischen Umgang mit Technologie ein, zeigen deren demokratisches Potenzial und bringen Menschen zusammen. Wir haben 56 Projekte umgesetzt, schätzungsweise 4.700 Flaschen Mate getrunken und 55.797 Commits in unsere GitHub-Repositories gepusht. Auch FragDenStaat wurde 10 Jahre alt und konnte im Rückblick erfreut festhalten, dass Informationsfreiheit inzwischen in der Gesellschaft bekannter ist und auf der politischen Agenda steht.
+### Die erste Förderrunde ist vom Stapel gelaufen: 50 Open-Hardware-Projekte für eine offene, nachhaltige Gesellschaft.
+Die erste Runde des Prototype Fund Hardware ist gestartet. Mehr als 50 Bewerbungen sind eingegangen. Alle spiegeln den Willen wider, offene, reparierbare und gesellschaftsrelevante Technologien zu entwickeln. Dabei sind Vorhaben wie „Heizen mit Kompost“, das Kompostwärme effizient nutzen möchte, eine Boje, die Umweltdaten zu Gewässern aufzeichnet oder ein Projekt, das die Nachnutzung von elektronischen Bauteilen verbessern möchte. Sie alle wollen Technologie zugänglicher machen und sozial-ökologische Probleme lösen. 
 
 ### Der neue Prototype Fund Hardware konnte zivilgesellschaftlich orientierte, offene Hardware fördern. 
 Für eine Welt, in der das Reparieren wieder normal ist, muss unsere alltägliche Technik neu erfunden werden, denn über Jahre hinweg wurde sie immer mehr zur Blackbox. Der Prototype Fund Hardware soll das ändern – 2021 startete das Förderprogramm für offene, transparente Technologien. 
 
-### FragDenStaat-Recherchen im Rampenlicht beim ZDF Magazin Royale
-2021 konnten wir wichtige Kooperationspartner wie das ZDF Magazin Royale für unsere Recherchen gewinnen!  Gemeinsam beleuchteten wir vier Themen: Wir deckten geheime Treffen der Waffenlobby mit der EU-Grenzpolizei Frontex auf, beschäftigten uns mit der AfD-nahen Desiderius-Erasmus-Stiftung, berichteten über die Flüchtlingslager von Moria und nahmen den Irrsinn des Straftatbestandes „Fahren ohne Fahrschein“ genauer unter die Lupe. 
+### Ehrenamtliches Engagement traf sich beim Community Summit von Code for Germany.
+Am 3. Oktober kam Code for Germany zum alljährlichen Community Summit zusammen. Mit Teilnehmenden aus dem gesamten Bundesgebiet kam sogar ein klein wenig Einheitsstimmung auf an diesem deutschen Feiertag. Die Ehrenamtlichen besprachen unter anderem, wie sich Linked Open Data an Hand konkreter Beispiele vermitteln lässt.
 
-### Jugend hackt stellte die Community im Film vor und startete die digitale Alpaka-World.
-2021 wurden wir mit der Kamera begleitet: Die Hamburger Filmemacherin Sandra Trostel hat im Gespräch mit vielen Menschen aus der Community ein Bild von dem erarbeitet, was Jugend hackt ist. In jedem der acht Kurzfilme wurde eines unserer Herzensthemen mit der persönlichen Geschichte der Protagonist:innen verwoben. Auf ➠[jugendhackt.org/alpakaworld](https://jugendhackt.org/alpakaworld/) lassen sich nun in unserem neuen interaktiven digitalen Raum alle Filme ansehen.
+### Unsere Organisation: Wir wachsen weiter, feiern zusammen und lernen voneinander.
+34 Teammitglieder gehörten 2022 zur OKF. Wir stärken unsere Teammitglieder durch Fortbildungen, Verantwortungsübernahme und Unterstützung, klare Regeln und Strukturen, Freiheiten und Flexibilität und tauschen uns immer wieder bei Festen (Foto: Frühlingsfest), Team-Retreats, Brunches oder anderen Gelegenheiten aus.
 
-### Das Bündnis F5 wurde als zivilgesellschaftliche Allianz für gemeinwohlorientierte Digitalpolitik gegründet. 
-Zusammen mit vier weiteren Organisationen aus der Digitalen Zivilgesellschaft – AlgorithmWatch, der Gesellschaft für Freiheitsrechte, Reporter ohne Grenzen und Wikimedia Deutschland – gründete die OKF DE 2021 das Bündnis F5 als Netzwerk der Digitalen Zivilgesellschaft. Ziel der Kooperation ist es, für einen Neustart (F5) in der Digitalpolitik zu werben, um die Digitalisierung an den Interessen der Menschen in Deutschland und Europa auszurichten. 
+### FragDenStaat veröffentlicht die „NSU-Akten“ gemeinsam mit dem "ZDF Magazin Royale". 
+Der Nationalsozialistische Untergrund verübte in den Jahren 2000 bis 2007 nicht nur sämtliche Überfälle und Anschläge, sondern ermordete auch zehn Menschen. Ein Jahr nachdem sich der NSU selbst enttarnte, ordnete der hessische Innenminister die Aufbereitung der Aktenbestände an, um mögliche Fehler des Verfassungsschutzes darzulegen. Die Resultate sollten 120 Jahre unter Verschluss bleiben. Zur Aufarbeitung und für die Betroffenen machte FragDenStaat diesem Vorhaben einen Strich durch die Rechnung. 
 
-### Das Team der OKF DE traf sich endlich wieder vor Ort. 
-Im September 2021 trafen sich Team- und Boardmitglieder endlich wieder in großer Runde vor Ort. Zwei Tage verbrachten wir gemeinsam im Stechlin-Institut in Brandenburg mit organisationsübergreifender Reflexion sowie Organisationsentwicklung und nutzten die gemeinsame Zeit auch zum ausgiebigen Plaudern, Austauschen und Feiern. 
+### Jugendliche erarbeiten bei „Beyond Code“ von Jugend hackt gesellschaftliche Forderungen. 
+Jugend hackt mal ohne Programmieren, dafür mit ganz viel Gesprächen? Das geht, wie unsere erste Konferenz „Beyond Code“ mit den großen Themenbereichen „zeitgemäße digitale Bildung“ und „gesellschaftliche Anforderungen an Künstliche Intelligenz“ zeigte: Im November kamen dazu interessierte Jugendliche und Mentor:innen mit Expert:innen in den Technischen Sammlungen in Dresden zusammen.
 
-### Der Prototype Fund startete in die Zukunft.
-Der Prototype Fund hat auch im Jahr 2021 gezeigt, wie Technologieentwicklung mit sozialpolitischem Profil erfolgreich von der Zivilgesellschaft umgesetzt und dabei staatlich gefördert  werden kann. inter den Kulissen hat das Team vor allem kräftig an der Zukunftsgestaltung des Förderprogramms geschraubt. Wenn auch wenig davon nach außen sichtbar war, konnten wir 2021 viele Schritte anstoßen, die die Wirkung des Funds in der Zukunft maßgeblich beeinflussen werden.
+### Der Prototype Fund veröffentlicht Funding-Handbuch und feiert Open Source.
+2022 stand beim Prototype Fund ganz im Zeichen von Austausch und Wissensvermittlung. Im Sommer kamen die Geförderten der letzten zwei Jahre zu einem rundenübergreifenden Demo Day zusammen, um ihre Open-Source-Projekte vorzustellen und zu feiern. Außerdem haben wir unsere Erfahrungen zum Thema Förderung aufbereitet und das Handbuch “Funding for Future” verfasst - und nicht nur wir teilen unser Wissen: In der 2022 veröffentlichten Knowledge Base stellen Expert*innen aus den Förderprojekten ihr Wissen zu verschiedensten Themen für alle Interessierten zur Verfügung.
 
-### Förderung unserer digital Ehrenamtlichen 
-Durch eine kurzfristige Förderung von der Deutschen Stiftung für Ehrenamt und Engagement konnten wir 2021 dem Einsatz von zahlreichen Freiwilligen Rechnung tragen, die sich in ihrer Freizeit für eine gemeinwohlorientierte Digitalisierung einsetzen. Rund 1.000 Stunden an ehrenamtlichem Engagement mit Tätigkeiten von Event- und Communityorganisation über Vortrags- und Bildungsarbeit bis hin zu technischen Aufgaben konnten wir in diesem Projekt honorieren.  
+### Unser Bündnis F5 hat nun richtig losgelegt und in diesem Jahr vier parlamentarische Frühstücke zu digitalpolitischen Themen im Bundestag umgesetzt. 
+Die Umsetzung des Digital Services Act, das Transparenzgesetz und der Rechtsanspruch auf Open Data, Schutz vor Gewalt im digitalen Raum und Diskriminierung durch automatisierte Entscheidungen waren die Themen unserer parlamentarischen Frühstücke und zeigen die Bandbreite der Expertise unserer fünf Bündnisorganisationen.  
 
 
 
