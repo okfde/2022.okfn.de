@@ -44,3 +44,7 @@ Gemeinsam mit FragDenStaat, Mehr Demokratie, Transparency International und weit
 
 2023 sollen die Grundlagen für das Projekt gelegt werden. Von zentraler Bedeutung ist die Einrichtung eines Knowledge Hubs auf der Website der OKF, der als Wissensspeicher für alle Initiativen rund um den Komplex Open Data im Rahmen des Projekts dienen soll. Kommunen sollen hier Informationen zu Gelingensbedingungen und weiterführendes Material finden, die Community ihre Erfahrungen über Fallstricke teilen. Auf Policy-Ebene möchten wir die Gesetzeslage zu Open Data in den Bundesländern vergleichen und visualisieren.
 
+### Website
+
+[https://okfn.de/projekte/opendata/](https://okfn.de/projekte/opendata/)
+
