@@ -25,10 +25,10 @@ causes:
 
 solution:
 - title: einfache Anfragen online
-  text: Mithilfe von FragDenStaat.de können alle Menschen besonders einfach Anfragen an Behörden stellen. Der Ansatz ist niedrigschwellig, zusätzliche Tools gibt es für Journalist:innen und NGOs.
+  text: Mithilfe von FragDenStaat.de können alle Menschen besonders einfach Anfragen an Behörden stellen. Der Ansatz ist niedrigschwellig, zusätzliche gibt es Tools für Journalist:innen und NGOs.
 - title: transparente Darstellung
   text: Alle Anfragen und Antworten darauf werden online dokumentiert und zeigen die Praxis der Informationsfreiheit in Deutschland. Davon können  
-   Bürger:innen und Behörden lernen. Die öffentliche Kontrolle wird verstärkt.
+Bürger:innen und Behörden lernen. Die öffentliche Kontrolle wird verstärkt.
 - title: laufende Berichterstattung
   text: Das Team von FragDenStaat informiert aktuell über neue Fälle und Klagen und zeigt Erfolge und Probleme der Informationsfreiheit auf.
 effect:
@@ -49,7 +49,7 @@ effect:
     Verwaltungen befolgen das Informationsfreiheitsgesetz stärker und bei den Mitarbeiter:innen wird die Akteptanz für Informationsfreiheit gestärkt.
 - title: auf Multiplikator:innen
   text: >
-    Die Nutzung von Anfragen an Verwaltungen für NGO-Kampagnen und journalistische Projekte wird erhöht.
+    Das Nutzen von Anfragen an Verwaltungen für NGO-Kampagnen und journalistische Projekte wird erhöht.
     Der Gesetzgeber gerät unter Druck, bestehende Regelungen bürger:innenfreundlicher zu gestalten.
 - title: gesellschaftliche Wirkung
   claim: Durch die stärkere Nutzung der Informationsfreiheit wird das Menschenrecht gestärkt.
@@ -73,70 +73,72 @@ In einer Demokratie ist es notwendig, dass sich Bürger:innen frei über Regieru
   
 ### Budget
 
+  **2022** <br>
+  Einnahmen: 1.542.771 € <br>
+  Ausgaben: 810.164 € <br>
+  davon Personalausgaben: 543.181 € <br>
+  davon Sachausgaben: 266.983 € 
+
   **2021** <br>
   Einnahmen: 664.543 €<br>
   Ausgaben: 536.646 €<br>
   davon Personalausgaben: 366.024 €<br>
   davon Sachausgaben: 170.622 €
 
-  **2020** <br>
-  Einnahmen: 542.644 € <br>
-  Ausgaben: 331.751 € <br>
-  davon Personalausgaben: 266.121 € <br>
-  davon Sachausgaben: 65.630 € 
-
 ### Personal
 
-  Projektleitung: Arne Semsrott | Entwickler:in: Stefan Wehrmeyer / Magdalena Noffke | Studentische Hilfskraft & Campaignerin: Lea Pfau | Projektmanagerin: Judith Doleschal | Leitung Kommunikation: Leonie Gehrke | Head of Legal: Phillip Hofmann / Hannah Vos mit Unterstützung von Volljurist Sebastian Sudrow, wissenschaftlicher Mitarbeiterin Layla Ansari und Rechtsreferendarin Jacqueline Knoll | Journalistin: Vera Deleja-Hotko mit Praktikantin Sarah Pilz | Leitung Brüsseler Büro: Luisa Izuzquiza | Studentische Hilfskraft &  Bundesfreiwilligendienstleistender: Max Kronmüller | Bundesfreiwilligendienstleistende: Melek Bazgan
+  Projektleitung: Arne Semsrott | Entwickler:in: Stefan Wehrmeyer / Magdalena Noffke mit den studentischen Hilfskräften Karl Engelhardt / Max Kronmüller | Studentische Hilfskraft und Campaignerin: Lea Pfau | Head of Operations: Judith Doleschal | Öffentlichkeitsarbeit: Leonie Gehrke / Isa Lachmann / Monica Phương Thúy Nguyễn | Lega-Team: Hannah Vos / Vivian Kube / Sebastian Sudrow / Philipp Schönberger mit Rechtsreferendar:innen Clara Willeke / Lorenz Dudew | Investigativ-Team: Vera Deleja-Hotko / Aiko Kempen | Leitung Brüsseler Büro: Luisa Izuzquiza | Studentische Hilfskraft und Bundesfreiwilligendienstleistende: Melek Bazgan | Bundesfreiwilligendienstleistende: Tiziana Saab
 
 ### ehrenamtliche Arbeit
 
-  ca. 400 h durch unsere 5 Moderator:innen sowie das ehrenamtliche Legal-Team mit 7 Jurist:innen 
+  ca. 400 h durch unsere fünf Moderator:innen sowie das ehrenamtliche Legal-Team mit sieben jungen Jurist:innen
   
 ### Partner:innen
 
-  foodwatch, Deutsche Umwelthilfe, Mehr Demokratie, Gesellschaft für Freiheitsrechte, Deutsche Gesellschaft für Informationsfreiheit, Reporter ohne Grenzen, Chaos Computer Club, netzwerk recherche, Access Info, abgeordnetenwatch.de
+  foodwatch, Pro Asyl, Campact, Mehr Demokratie, Gesellschaft für Freiheitsrechte, Deutsche Gesellschaft für Informationsfreiheit, Reporter ohne Grenzen, Chaos Computer Club, netzwerk recherche, Access Info, abgeordnetenwatch.de
 
 ### Förderung
   
-  Spenden, Luminate, Schöpflin Stiftung, European Climate Foundation, Medieninnovationszentrum Babelsberg, sonstige
+  Spenden, Luminate, Schöpflin Stiftung, Alfred Landecker Foundation, Bertha Foundation, Stichting NLnet, Adessium, Medieninnovationszentrum Babelsberg, Wikimedia, sonstige
+
 
 # inhaltliche Schwerpunkte
 
-2021 ist das FragDenStaat-Team weiter gewachsen. Im Bereich Recherche gibt es nun eine neue Leitung für die investigative Arbeit. Außerdem haben wir ein Brüsseler Büro für EU-Recherchen gegründet. Hervorzuheben sind vier Themen, die wir gemeinsam mit unserem Kooperationspartner dem ZDF Magazin Royale beleuchten konnten: Wir deckten geheime Treffen der Waffenlobby mit der EU-Grenzpolizei Frontex auf, beschäftigten uns mit der AfD-nahen Desiderius-Erasmus-Stiftung, berichteten über die Flüchtlingslager von Moria und nahmen den Irrsinn des Straftatbestandes „Fahren ohne Fahrschein“ genauer unter die Lupe.  
-    
-Unser Legal-Team besteht inzwischen aus zwei Volljurist:innen, welche regelmäßig von Referendar:innen unterstützt werden. Insgesamt 111 Klagen und Eilanträge hat das Team inzwischen eingereicht. Auf unsere Klagen hin mussten u. a. das anwaltliche Gutachten zur Plagiatsaffäre von Franziska Giffey, Verträge der Stadt Potsdam mit privaten Sicherheitsfirmen sowie  der Vertrag des Bundesjustizministeriums mit dem Bundesanzeiger zum Bundesgesetzblatt herausgegeben werden! Ende des Jahres feierten wir einen Erfolg beim Thema „Zensurheberrecht“: Im Prozess um das Glyphosat-Gutachten gewannen wir auch in zweiter Instanz gegen das Bundesinstitut für Risikobewertung, wonach nun klar war, dass unsere Veröffentlichung 2019 keine Urheberrechtsverletzung darstellte.  
-    
-Die größte Neuerung auf unserer Plattform war 2021 der Launch unserer neuen Anfrage-Seite. Sie ist nun kompakter, einheitlicher und übersichtlicher! Auch haben wir unser Dokumentensystem, in dem wir mittlerweile über 140.000 PDFs speziell aufbereitet haben, verbessert. Außerdem haben wir unseren Hilfebereich überarbeitet und unsere Moderationswerkzeuge verbessert, so dass wir unsere Nutzer:innen besser unterstützen können.
-    
-Unglaubliche 35% aller Anfragen auf FragDenStaat wurden 2021 im Rahmen unserer Mitmach-Kampagnen gestellt. Mit „Black Box EU“ haben wir im Februar unsere erste EU-Kampagne gestartet und die intransparenten Trilog-Verhandlungen der europäischen Gesetzgebung beleuchtet. Denn seit Anfang des Jahres können auch EU-Behörden über FragDenStaat angefragt werden. 
-    
-Ebenfalls neu ist die Kampagne „Lobbyregister selbst gemacht“. Der Gesetzentwurf der Bundesregierung für ein Lobbyregister war mangelhaft. Daher haben wir im Juni dazu aufgerufen, Kontakte zwischen Bundesministerien und großen Unternehmen anzufragen. Die Bundesregierung will die 800 Auskunftsanträge zu Lobbykontakten aber ausbremsen. Um die Verflechtung zwischen Wirtschaft und Politik ging es auch bei der „Aktion Ehrensache“, die wir im März gestartet haben. Mit der Kampagne konnten wir aufdecken, welche Abgeordneten Aufträge für Masken und medizinische Schutzausrüstung an das Gesundheitsministerium vermittelt haben. Wir legen außerdem ein besonderes Augenmerk auf die Klimakrise und starteten im Sommer unseren Klima-Helpdesk. Mit zusätzlichem Service und Beratung unterstützen wir im Rahmen dieser Aktion Privatpersonen, Journalist:innen oder soziale Initiativen dabei, das Umweltinformationsgesetz für ihre Ziele zu nutzen. Und nicht zu vergessen: FragDenStaat ist im Sommer 10 Jahre alt geworden.
+Im Jahr 2022 ist das FragDenStaat-Team weiter gewachsen. Im Bereich der Öffentlichkeitsarbeit wird das Team nun von zwei weiteren Mitarbeiterinnen verstärkt. Auch das Legal-Team sowie das Investigativ-Team durften sich jeweils über neue Mitarbeitende freuen. Mit den neuen Klagen hat FragDenStaat inzwischen insgesamt 142 Klagen eingereicht. Hinzu kamen beispielsweise Klagen auf EU-Ebene: Gemeinsam mit Seawatch klagte FragDenStaat gegen Frontex, zudem gegen das EU-Parlament aufgrund eines griechischen Nazi-Abgeordneten. Die hartnäckige Recherche inklusive Klagen von FragDenStaat trug mit zur Auflösung der Stiftung Klima- und Umweltschutz in Mecklenburg-Vorpommern bei. Durch den Bundesgerichtshof wurde endlich die Veröffentlichung des Glyphosat-Gutachtens als rechtmäßig erklärt. Außerdem urteilte das Bundesverwaltungsgericht nach unserer Klage, dass der wissenschaftliche Beirat des Finanzministeriums seine Protokolle öffentlich zugänglich machen muss.
+
+FragDenStaat hat sich durch Aktionen und Kampagnen weitreichend für Transparenz eingesetzt. Gemeinsam mit Wikimedia Deutschland sowie anderen Organisationen hat FragDenStaat den Koalitionstracker gebaut und betreut. Dieser bietet die Live-Verfolgung der Regierungsarbeit hinsichtlich der Umsetzungen aller Versprechen der Ampel-Koalition. Die erschreckende Bilanz zeigt, wiewenig Vorhaben angegangen wurden. Aus diesem Grund hat auch FragDenStaat gemeinsam mit einem breiten Bündnis einen Entwurf für ein Bundestransparenzgesetz vorgelegt, um der Regierung Orientierung zu geben.
+
+Nachdem das Verwaltungsgericht Berlin FragDenStaat nicht als Presse anerkannte, da sie die Recherchen nicht analog drucken ließen, reagierte FragDenStaat mit ihrem ersten Druckerzeugnis. Daraufhin wurde FragDenStaat der Pressestatus zuerkannt und bekam somit die Legitimation, sich bei Behördenauskünften auf die Pressefreiheit zu berufen.
+
+Mit der neuen Kampagne „Wie ist die Lage?“ sollen die Lageberichte des Auswärtigen Amts allen zugänglich gemacht werden. Die Berichte erörtern, in welchen Ländern gravierende Gefahren drohen. Mithilfe von ProAsyl sowie der FragDenStaat-Community sollen Lageberichte angefragt und veröffentlicht werden, sodass Abschiebungen in solche Länder zukünftig von der Zivilgesellschaft verhindert werden können. Der bereits 2021 gestartete Klima-Helpdesk bewährte sich im Jahr 2022 weiterhin als effektive Unterstützung für Privatpersonen, Journalist:innen oder soziale Initiativen, die das Umweltinformationsgesetz für ihre Vorhaben nutzten.
+
+Ein riesiger Erfolg war die Veröffentlichung der NSU-Akten gemeinsam mit dem ZDF Magazin Royale 120 Jahre früher als seitens der Behörden geplant, da diese eigentlich als Verschlusssache eingestuft waren. Eine weitere Folge beleuchtet das bürokratische Chaos der Ausländerbehörden und die damit einhergehenden Konsequenzen für alle, die darauf angewiesen sind. Zudem hat FragDenStaat die Brandenburger Landesregierung bezüglich des Vorhabens, ein Abschiebezentrum neben dem Berliner Flughafen zu bauen, ordentlich gelöchert. Durch das Brüsseler Büro konnte die finanzielle Beteiligung von EU-Mitgliedsstaaten an Frontex-Einsätzen dargelegt und der OLAF-Report geleakt werden.
   
 
 # Output
 
-* Anfragen gesamt: 28.103 (VJ: 33.384)
+* Anfragen gesamt: 29.250 (VJ: 28.103)
 
-* Aktive Nutzende gesamt: 104.510 (VJ: 101.824)
 
-* Seitenansichten: 6,2 Millionen
+* Aktive Nutzende gesamt: 117013 (VJ: 115142)
 
-* gewonnene Klagen: 17 (VJ:  9)
+* Seitenansichten: 9 Millionen
+
+* gewonnene Klagen: 16 (VJ: 17)
     
-* erste Kampagne auf EU-Ebene, Klima-Helpdesk zur Unterstützung von Umwelt-Initiativen, 4 Sendungen gemeinsam mit dem ZDF Magazin Royale sowie weitere neue Medienkooperationen, 138 Artikel im Blog veröffentlicht
+* Koalitionstracker macht Fortschritt der Ampel-Koalition transparent, ein Entwurf für Bundestransparenzgesetz im Bündnis, 2 Sendungen gemeinsam mit dem ZDF Magazin Royale sowie weitere neue Medienkooperationen, 2 wichtige Leaks, erste FragDenStaat-Zeitung gedruckt und 1.333 mal verschickt, 109 Artikel im Blog veröffentlicht
     
-* neues Dokumentensystem für mittlerweile über 140.000 PDFs in unserem Archiv, Redesign der Anfrage-Seite
+* Dokukratie.de macht zentrale Dokumente der Demokratie besser zugänglich, der Klageautomat lässt Nutzer:innen automatisiert prüfen, ob bei ihrer Anfrage eine Untätigkeitsklage möglich ist
     
-* Veröffentlichung des neuen Musikvideos ➠[Das ist alles von der Informationsfreiheit gedeckt](https://www.youtube.com/watch?v=QV83MDNOrLI)
+* Veröffentlichung des ersten FragDenStaat Trailers: ➠[FragDenStaats‘s Twenty](https://fragdenstaat.de/spenden/dabei/)
 
 # Outcome
 
-Dank der Kampagnen sowie öffentlichkeitswirksamen Medienkooperationen konnten neue Zielgruppen für das Thema Informationsfreiheit sensibilisiert werden. Unsere neue Anfrage-Seite ist ansprechender und übersichtlicher. Gewonnene Klagen haben zu Grundsatzurteilen geführt, insbesondere beim Zensurheberrecht. Der neue Hilfebereich sowie die Beteiligung unserer Ehrenamtlichen führte dazu, dass wir mehr Nutzer:innen unterstützen konnten und damit mehr Menschen an ihren Anfragen drangeblieben sind. Die erhöhte Reichweite durch spannende Veröffentlichungen führte auch zu erhöhten Spendeneinnahmen. Spender:innen der letzten Jahre blieben uns erhalten.
+Dank der ersten FragDenStaat-Summer School, Kampagnen sowie öffentlichkeitswirksamen Medienkooperationen konnten neue Zielgruppen für das Thema Informationsfreiheit sensibilisiert werden. Neue Seiten und Redesign stellen die Arbeit von FragDenStaat nun klarer dar. Gewonnene Klagen haben zu Grundsatzurteilen geführt und unser Klageautomat ermöglicht es jetzt jedem, ganz einfach Untätigkeitsklagen einzureichen. Durch Leaks wird FragDenStaat als vertrauensvolles Medium für Hinweisgeber:innen wahrgenommen. Die erhöhte Reichweite durch spannende Veröffentlichungen und die Aktion rund ums Druckerzeugnis führten auch zu erhöhten Spendeneinnahmen. Spender:innen der letzten Jahre blieben uns erhalten.
 
 # Impact
 
-Ein durch Informationsfreiheit transparenter Staat stärkt Partizipation und erhöht die Qualität politischer Prozesse. Unsere Kampagnen ermutigen Menschen dazu, selbst Anfragen zu stellen, und macht Informationsfreiheit in Deutschland bekannter. Mit unseren Klagen erstreiten wir wegweisende Urteile und sorgen dafür, dass das Recht auf Informationsfreiheit effektiv durchgesetzt wird. Außerdem decken wir mit unseren investigativen Recherchen immer wieder Missstände auf und stoßen politische Veränderungen an. So veröffentlichten wir zum Beispiel ein Gutachten, das zu Franziska Giffeys Rücktritt als Ministerin führte, und eine gemeinsame Recherche mit ZDF Kontraste und Buzzfeed, aufgrund derer das Auswärtige Amt seine Praxis zum Familiennachzug anpasste. 
+Ein durch Informationsfreiheit transparenter Staat stärkt Partizipation und erhöht die Qualität politischer Prozesse. Unsere Kampagnen ermutigen Menschen dazu, selbst Anfragen zu stellen, und macht Informationsfreiheit in Deutschland bekannter. Mit unseren Klagen erstreiten wir wegweisende Urteile und sorgen dafür, dass das Recht auf Informationsfreiheit effektiv durchgesetzt wird. Außerdem decken wir mit unseren investigativen Recherchen immer wieder Missstände auf und stoßen politische Veränderungen an. So hat die hartnäckige Recherche zur Stiftung Klima- und Umweltschutz in Mecklenburg-Vorpommern mit zu deren Auflösung beigetragen. Das Urteil zu unserem Pressestatus führte zu einer öffentlichkeitswirksamen Diskussion über das veraltete Presseverständnis unserer Gerichte. Der gemeinsame Leak der NSU-Akten mit dem ZDF Magazin Royale trägt zur Aufarbeitung des NSU bei. Die Brandenburger Landesregierung ist durch die Recherche von FragDenStaat in Erklärungsnöte zum ➠[BER-Abschiebezentrum](https://fragdenstaat.de/blog/2022/08/16/ber-abschiebezentrum-konnte-investor-hunderte-millionen-euro-bringen/) gekommen.
 
     
 # Evaluation
@@ -145,7 +147,7 @@ Maßnahmen werden regelmäßig intern evaluiert. Auf dem Blog und via Newsletter
 
 # Ausblick
 
-Auch 2022 kämpfen wir weiter für Informationsfreiheit. Nach unserem starken Teamwachstum heißt es jetzt erstmal zu konsolidieren. Der Klima-Helpdesk wird fortgeführt und neue Kampagnen kommen hinzu. Erste Legal-Tech-Anwendungen sind für unsere Nutzer:innen bald verfügbar und die Urteilsdatenbank ist bereits einsehbar. Ebenso wird das Redesign Seite für Seite vorangebracht. Recherchen sind schwer planbar, aber Frontex wird weiterhin fest in unserem Fokus stehen. Besonders freuen wir uns auf die mehrfach verschobene FragDenStaat-Summer-School: 2022 können wir endlich Multiplikator:innen zusammenbringen und schulen. Berichterstattung, Anfragen und Klagen sollen auf hohem Niveau weitergeführt werden.
+2023 kann das Jahr der Transparenz werden. Mehrere Gesetzesvorhaben sind in der Pipeline, die FragDenStaat begleitet. Außerdem bleiben FragDenStaat an Frontex dran und auch die weitere Aufarbeitung des NSU-Komplex steht auf der Agenda. Darüber hinaus wird es neue Projekte geben wie ein Rechtsschutzfonds sowie eine Datenbank mit Gerichtsentscheidungen zur Presse- und Informationsfreiheit. Die FragDenStaat-Summer School findet ebenfalls wieder statt. Dazu arbeitet FragDenStaat an einigen großen Veröffentlichungen gemeinsam mit deutschen und internationalen Medien.
 
 <br><br><br>
 
