@@ -37,7 +37,7 @@ davon Sachausgaben: 667 €
 Projektleitung: Maximilian Voigt <br>
 Projektmanagement: Dr. Daniel Wessolek
 
-### ehrenamtliche Arbeit
+#### ehrenamtliche Arbeit
 monatliche Netzwerk-Treffen
 
 #### Partner:innen
