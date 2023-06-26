@@ -1,6 +1,6 @@
 ---
 layout: page
-chapter: 3.1
+chapter: 3.2
 title: Organisationsprofil
 permalink: /organisation/profil/
 visual:
