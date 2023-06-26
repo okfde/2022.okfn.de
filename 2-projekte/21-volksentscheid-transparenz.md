@@ -42,7 +42,9 @@ Spenden
 * Über 40 zivilgesellschaftliche Organisationen unterstützen den Volksentscheid Transparenz.
 
 
-### Ausblick
+### Website
+
+[https://volksentscheid-transparenz.de](https://volksentscheid-transparenz.de)
 
 Die ungewöhnlich lange Zulässigkeitsprüfung und die andauernde Corona-Pandemie hätten die reguläre Fortführung des Volksbegehrens extrem erschwert. Wir haben uns daher entschieden, nicht in die zweite Stufe zu gehen. Insbesondere in Anbetracht der Wiederholungswahl 2023 und der Neubesetzung des Postens der Berliner Informationsfreiheitsbeauftragten durch Meike Kamp ist das Thema Transparenzgesetz jedoch nach wie vor auf der politischen Tagesordnung. Wir führen weiter Gespräche mit der Koalition und üben öffentlichen Druck aus, um unsere Forderungen auf diesem Wege umzusetzen und so schließlich ein fortschrittliches Transparenzgesetz für Berlin zu erwirken.
 
