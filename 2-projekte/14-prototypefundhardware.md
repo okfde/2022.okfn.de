@@ -1,7 +1,7 @@
 ---
 layout: page
 chapter: 2.14
-title: Angstfrei
+title: Prototype Fund Hardware
 website: https://hardware.prototypefund.de/
 permalink: /projekte/prototype-fund-hardware/
 visual:
