@@ -7,6 +7,7 @@ permalink: /projekte/fragdenstaat/
 visual:
     img: /assets/images/opengovernment/fds-team2021.jpg
     alt: Teamfoto von Frag den Staat 2021
+    
 problem:
 - text: Zu wenige Personen nutzen ihr Menschenrecht auf Informationsfreiheit. Wenn Menschenrechte nicht genutzt werden, können sie schneller wieder abgeschafft werden.
 causes:
@@ -31,6 +32,7 @@ solution:
 Bürger:innen und Behörden lernen. Die öffentliche Kontrolle wird verstärkt.
 - title: laufende Berichterstattung
   text: Das Team von FragDenStaat informiert aktuell über neue Fälle und Klagen und zeigt Erfolge und Probleme der Informationsfreiheit auf.
+  
 effect:
 - title: auf Bürger:innen
   text: >
