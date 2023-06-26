@@ -36,7 +36,10 @@ keine
 
 Das Jahr 2022 stand ganz im Zeichen des ➠[dritten Nationalen Aktionsplans (NAP)](https://www.open-government-deutschland.de/opengov-de/dritter-nationaler-aktionsplan-verabschiedet-1936776). Positiv am dritten Nationalen Aktionsplan ist vor allem, dass auch weiterhin Bundesländer mit einbezogen werden und somit Open Government in Deutschland in die Fläche bringen soll. Ein weiterer Schwerpunkt war die Policy-Arbeit zur Verankerung des Begriffs OGP und des Nationalen Aktionsplans sowie die Erweiterung des Netzwerks
 
-### Ausblick
+### Website
+
+[https://opengovpartnership.de/](https://opengovpartnership.de/)
+
 
 Die Verpflichtungen der Bundesregierung lassen bisher weiterhin Ambitionen vermissen, Open Government in großem Umfang und auch regional umzusetzen. Hier sind 2023 mehr Führung der Politik zum Thema und mehr Druck aus der Zivilgesellschaft nötig, um den vierten Nationalen Aktionsplan erfolgreich zu planen und OGP regional zu stärken. Das Netzwerk wird den Entstehungsprozess aktiv mit einem mehrstufigen Verfahren zum Vorschlagen von Verpflichtungen begleiten sowie regelmäßigen Austausch mit dem zuständigen Referat im Bundeskanzleramt koordinieren. 2023 findet zudem die Wahl der Strategiegruppe statt. Es wird eine Ausweitung der Themenschwerpunkte um z. B. die Klimakrise angestrebt, ebenso ist ein Vernetzungstreffen mit nördlichen OGP-Mitgliedsgruppen ist geplant.
 
