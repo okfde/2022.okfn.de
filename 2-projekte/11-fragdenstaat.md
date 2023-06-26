@@ -29,7 +29,7 @@ solution:
   text: Mithilfe von FragDenStaat.de können alle Menschen besonders einfach Anfragen an Behörden stellen. Der Ansatz ist niedrigschwellig, zusätzliche gibt es Tools für Journalist:innen und NGOs.
 - title: transparente Darstellung
   text: Alle Anfragen und Antworten darauf werden online dokumentiert und zeigen die Praxis der Informationsfreiheit in Deutschland. Davon können  
-Bürger:innen und Behörden lernen. Die öffentliche Kontrolle wird verstärkt.
+Bürger*innen und Behörden lernen. Die öffentliche Kontrolle wird verstärkt.
 - title: laufende Berichterstattung
   text: Das Team von FragDenStaat informiert aktuell über neue Fälle und Klagen und zeigt Erfolge und Probleme der Informationsfreiheit auf.
   
