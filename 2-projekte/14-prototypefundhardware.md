@@ -53,3 +53,7 @@ Zur Unterstützung der sechs Projekte und auch für zukünftige Fördermaßnahme
 ### Ausblick
 
 Im letzten Projektjahr präsentieren die Hardware-Projekte ihre Ergebnisse. Außerdem werden die Erkenntnisse aus der ersten Runde ausgewertet, um Handlungsempfehlungen für die Weiterentwicklung des Funds abzuleiten. Der Fokus der Arbeit wird auch darauf liegen, ein langfristiges Finanzierungsmodell für das Förderprogramm zu entwickeln.
+
+### Website
+
+[https://hardware.prototypefund.de/](https://hardware.prototypefund.de/)
