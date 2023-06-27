@@ -5,8 +5,8 @@ title: Prototype Fund Hardware
 website: https://hardware.prototypefund.de/
 permalink: /projekte/prototype-fund-hardware/
 visual:
-  img: /assets/images/opengovernment/angstfrei.png
-  alt: Logo von Angstfrei Digitale Jugendarbeit
+  img: /assets/images/2022/PFH-2022.jpg
+  alt: Logo Abwandlung von Prototype Fund Hardware
 ---
 
 ### Das Projekt
