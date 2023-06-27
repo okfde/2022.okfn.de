@@ -4,7 +4,7 @@ chapter: 1
 title: Einleitung 
 permalink: /einleitung/
 visual:
-    img: /assets/images/2022/collage.jpg
+    img: /assets/images/einleitung/einleitung-4.png
     alt: Illustration zum Kapitel
 ---
 
