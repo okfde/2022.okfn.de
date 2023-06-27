@@ -5,7 +5,7 @@ title: Code for Germany
 website: https://codefor.de
 permalink: /projekte/code-for-germany/
 visual:
-    img: /assets/images/2022/cfg-summit-22.jpg
+    img: /assets/images/2022/cfg-summit-2022.jpg
     alt: Gruppenfoto vom Code for Germany Summit 2022
 
 problem:
