@@ -5,8 +5,8 @@ title: Jugend hackt
 website: https://jugendhackt.org/
 permalink: /projekte/jugendhackt/
 visual:
-    img: /assets/images/opengovernment/jh-alpakaworld.png
-    alt: Jugend hackt Alpaka World Screenshot
+    img: /assets/images/2022/JH-2022.png
+    alt: Jugend hackt Mentor:innen Team 
     
 problem:
 - text: Jugendliche erleben eine Welt, die durch Technik geformt wird, die nur von einem kleinen Teil der Gesellschaft gemacht wird.
