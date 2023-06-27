@@ -5,7 +5,7 @@ title: Prototype Fund
 website: https://prototypefund.de
 permalink: /projekte/prototypefund/
 visual:
-    img: /assets/images/2022/PTF-2022.png
+    img: /assets/images/2022/PTF-2022.jpg
     alt: Prototype Fund Logo Open Libre
     
 problem:
