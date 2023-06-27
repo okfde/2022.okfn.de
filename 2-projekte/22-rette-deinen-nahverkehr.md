@@ -5,8 +5,8 @@ title: Rette deinen Nahverkehr
 website: https://rettedeinennahverkehr.de/
 permalink: /projekte/rette-deinen-nahverkehr/
 visual:
-      img: /assets/images/opengovernment/pfh-logo.png
-      alt: Prototype Fund Hardware Logo
+      img: 
+      alt: 
 ---
 
 ### Das Projekt
