@@ -5,7 +5,7 @@ title: Highlights des Jahres
 permalink: /einleitung/rueckblick/
 visual:
     img: /assets/images/2022/highlights-2022.png
-    alt: Fotos aus diesem Jahr, von oben nach unten: Frühlingsfest der OKF, Pressekonferenz FDS, Panel auf der re:publica
+    alt: Fotos aus diesem Jahr, von oben nach unten Frühlingsfest der OKF, Pressekonferenz FDS, Panel auf der re:publica
 ---
 
 ### Die erste Förderrunde ist vom Stapel gelaufen: 50 Open-Hardware-Projekte für eine offene, nachhaltige Gesellschaft.
