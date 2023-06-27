@@ -5,8 +5,8 @@ title: Offene Verwaltungsdaten
 website: https://okfn.de/projekte/opendata/
 permalink: /projekte/offene-verwaltungsdaten/
 visual:
-      img: /assets/images/opengovernment/DSEE-2021.jpg
-      alt: Ehrenamtliche und OKF-Geschäftsführerin Henriette Litta in Ulm
+      img: /assets/images/2022/OD-2022.jpg
+      alt: Logo Open Data
 ---
 
 ### Das Projekt
