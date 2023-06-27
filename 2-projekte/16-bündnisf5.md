@@ -5,8 +5,8 @@ title: Bündnis F5
 website: https://buendnis-f5.de/
 permalink: /projekte/bündnisF5/
 visual:
-    img: /assets/images/opengovernment/eiti.png
-    alt: Screenshot der Eiti Webseite
+    img: /assets/images/opengovernment/buendnis-f5.png
+    alt: Logo des Bündnis F5
 ---
 
 ### Das Projekt
