@@ -5,7 +5,7 @@ title: Jugend hackt
 website: https://jugendhackt.org/
 permalink: /projekte/jugendhackt/
 visual:
-    img: /assets/images/2022/JH-2022.png
+    img: /assets/images/2022/JH-2022.jpg
     alt: Jugend hackt Mentor:innen Team 
     
 problem:
