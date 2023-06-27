@@ -4,8 +4,8 @@ chapter: 3.1
 title: Über die OKF
 permalink: /organisation/ueber-die-okf/
 visual:
-    img: /assets/images/einleitung/teamanzahl2021.png
-    alt: Anhahl Teammitglieder
+    img: /assets/images/2022/mitglieder-2022.jpg
+    alt: Anzahl Teammitglieder
 ---
 ## Gesellschaftliche Vision
 
