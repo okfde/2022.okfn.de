@@ -5,9 +5,8 @@ title: Volksentscheid Transparenz
 website: https://volksentscheid-transparenz.de
 permalink: /projekte/volksentscheid-transparenz/
 visual:
-    img: /assets/images/opengovernment/jugendverstaerker_robot.png
-    alt: Jugendverstaerker Robot Illustration
-
+    img: /assets/images/2022/volksentscheid-2022.jpg
+    alt: Logo Volksentscheid Transparenz
 ---
 
 ### Das Projekt
