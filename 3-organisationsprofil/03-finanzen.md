@@ -4,9 +4,8 @@ chapter: 3.3
 title: Finanzen
 permalink: /organisation/finanzen/
 visual:
-    img: /assets/images/einleitung/budget2021.png
+    img: /assets/images/2022/bilanz-2022.jpg
     alt: Einnahmen und Ausgaben 2021
-
 ---
 
 ### Wirtschaftliche Lage des Vereins
