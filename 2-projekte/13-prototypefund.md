@@ -5,8 +5,8 @@ title: Prototype Fund
 website: https://prototypefund.de
 permalink: /projekte/prototypefund/
 visual:
-    img: /assets/images/opengovernment/ptf-trialerror.png
-    alt: Prototype Fund Trial Error Schriftzug
+    img: /assets/images/2022/PTF-2022.png
+    alt: Prototype Fund Logo Open Libre
     
 problem:
 - text: Digitale Innovation nutzt häufig nur wenigen und nicht der breiten Gesellschaft.
