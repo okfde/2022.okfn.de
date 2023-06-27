@@ -4,9 +4,8 @@ chapter: 3.2
 title: Organisationsprofil
 permalink: /organisation/profil/
 visual:
-    img: /assets/images/einleitung/okf-10jahre-logo-square.jpg
-    alt: Logo der OKF
-
+    img: /assets/images/2022/mission-statement.png
+    alt: Mission Statement der OKF
 ---
 
 ### Vereinsorgane, Geschäftsführung und Team 
