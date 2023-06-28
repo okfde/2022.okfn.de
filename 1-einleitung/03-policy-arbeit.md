@@ -4,8 +4,8 @@ chapter: 1.3
 title: Policy Arbeit
 permalink: /einleitung/policy-arbeit/
 visual:
-    img: /assets/images/einleitung/werte.png
-    alt: Illustration zum Kapitel – Transparenz, Zugang, Teilhabe, digitale Kompetenz, öffentliche Kontrolle
+    img: /assets/images/2022/werte.png
+    alt: Illustration mit den Worten "Transparenz und Zugang und Teilhabe und digitale Kompeten und öffentliche Kontrolle"
 ---
 Die politische Arbeit der OKF im Jahr 2022 fand unter sich wandelnden Rahmenbedingungen statt. Nach dem „Superwahljahr“ 2021 konstituierten sich eine neue Bundesregierung sowie sechs Landesregierungen, die mit neuen Strukturen, Akteur:innen und Schwerpunkten digitalpolitische Vorhaben diskutieren. Das Mittel der Stunde ist dabei die Entwicklung von Strategien. Digitalstrategie, Datenstrategie, Zukunftsstrategie – an Versuchen der strategischen Planung fehlt es nicht –, die Umsetzung wichtiger digitalpolitischer Vorhaben lässt allerdings weiter auf sich warten. Damit ein zentrales Anliegen der digitalen Zivilgesellschaft, die Einführung eines Transparenzgesetzes, in dieser Legislaturperiode endlich umgesetzt wird, legten wir einfach selbst einen ➠[Entwurf für ein progressives Transparenzgesetz](https://transparenzgesetz.de/) vor. Wir veröffentlichten bei FragDenStaat einen ➠[Koalitonstracker](https://fragdenstaat.de/koalitionstracker/), um zu verfolgen, welche der 247 konkreten Vorhaben aus dem Koalitionsvertrag bisher umgesetzt wurden. Mit diesem Tool sind die unterschiedlichen Informationen, die bisher verstreut bei Ministerien, Arbeitsgruppen oder Gremien zu finden waren, gebündelt und durchsuchbar.
 
