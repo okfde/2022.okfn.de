@@ -4,8 +4,8 @@ chapter: 1
 title: Einleitung 
 permalink: /einleitung/
 visual:
-    img: /assets/images/einleitung/einleitung-4.png
-    alt: Illustration zum Kapitel
+    img: /assets/images/2022/vorwort.png
+    alt: Illustration mit den Worten "Vorwort - Es gruesst der Vorstand."
 ---
 
 *Der Jahresbericht steht auch als <a href="/assets/documents/OKF_Jahresbericht_2022.pdf" class="download-table">PDF-Version</a> zur Verfügung. Die Versionen unterscheiden sich lediglich in Layout und Bildauswahl.*
