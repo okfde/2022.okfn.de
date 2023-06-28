@@ -23,7 +23,7 @@ Das Vereinsvermögen der OKF aus Eigenkapital beträgt somit 1.878.000 Euro (VJ 
 
 Der bilanzielle Jahresabschluss wurde mit Unterstützung der Steuerkanzlei Winkow angefertigt. Die Prüfung des Jahresabschlusses erfolgte im Mai/Juni 2023 durch die Wirtschaftsprüfungsgesellschaft Solidaris Revisions-GmbH. Es gab keine Beanstandungen. Eine Finanzübersicht im Jahresvergleich findet sich in folgendem PDF zum Download:
 
-<a href="/assets/documents/Jahresbericht_Finanzen_2022.pdf" class="download-table">Finanz Übersicht</a>
+<a href="/assets/documents/Finanzen_Jahresbericht_2022.pdf" class="download-table">Finanz Übersicht</a>
 
 ### Einnahmen und Ausgaben
 
