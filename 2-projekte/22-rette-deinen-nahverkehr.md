@@ -5,8 +5,8 @@ title: Rette deinen Nahverkehr
 website: https://rettedeinennahverkehr.de/
 permalink: /projekte/rette-deinen-nahverkehr/
 visual:
-      img: 
-      alt: 
+      img: /assets/images/2022/RDN.png
+      alt: eine Grafik von Rette deinen Nahverkehr
 ---
 
 ### Das Projekt
