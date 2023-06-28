@@ -5,8 +5,8 @@ title: Open Government Netzwerk
 website: https://opengovpartnership.de/
 permalink: /projekte/open-government-netzwerk/
 visual:
-     img: /assets/images/opengovernment/foe21.jpeg
-     alt: Foto vom Forum Open Education 2021
+     img: /assets/images/2022/ogp.jpg
+     alt: Logo Open Government Partnership
 ---
 
 ### Das Projekt
