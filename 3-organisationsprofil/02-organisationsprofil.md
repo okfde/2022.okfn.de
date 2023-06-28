@@ -5,7 +5,7 @@ title: Organisationsprofil
 permalink: /organisation/profil/
 visual:
     img: /assets/images/2022/OKF-logo.png
-    alt: Mission Statement der OKF
+    alt: Logo der OKF
 ---
 
 ### Vereinsorgane, Geschäftsführung und Team 
