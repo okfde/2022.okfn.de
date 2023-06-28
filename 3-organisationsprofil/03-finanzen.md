@@ -4,8 +4,8 @@ chapter: 3.3
 title: Finanzen
 permalink: /organisation/finanzen/
 visual:
-    img: /assets/images/2022/bilanz-2022.jpg
-    alt: Einnahmen und Ausgaben 2021
+    img: /assets/images/2022/OKF-logo.png
+    alt: Logo der OKF
 ---
 
 ### Wirtschaftliche Lage des Vereins
