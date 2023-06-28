@@ -4,7 +4,7 @@ chapter: 3.2
 title: Organisationsprofil
 permalink: /organisation/profil/
 visual:
-    img: /assets/images/2022/mission-statement.png
+    img: /assets/images/2022/OKF-logo.png
     alt: Mission Statement der OKF
 ---
 
